@@ -1,0 +1,12 @@
+{
+  "data_version": "1.0.0",
+  "schema_version": "1.0.0",
+  "generated_date": "2026-08-13",
+  "source_workbook": "iwt_named_entities_2010_2026.xlsx",
+  "counts": {
+    "entities": 125,
+    "cases": 125,
+    "sources": 72,
+    "relationships": 0
+  }
+}

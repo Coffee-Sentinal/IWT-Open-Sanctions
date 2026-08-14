@@ -1,0 +1,4252 @@
+[
+  {
+    "entity_id": "IWT-P-000001",
+    "canonical_name": "Anson Wong Keng Liang",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Malaysia"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Wildlife trader"
+    ],
+    "species_or_commodities": [
+      "Boa constrictors"
+    ],
+    "case_ids": [
+      "CASE-000001"
+    ],
+    "source_ids": [
+      "SRC-000001"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2010-09-06"
+  },
+  {
+    "entity_id": "IWT-P-000002",
+    "canonical_name": "Chumlong Lemtongthai",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "South Africa",
+      "Thailand"
+    ],
+    "regions": [
+      "Africa",
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Rhino horn trafficking organizer"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000002"
+    ],
+    "source_ids": [
+      "SRC-000002"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2012-11-09"
+  },
+  {
+    "entity_id": "IWT-P-000003",
+    "canonical_name": "Vinh Chuong Kha",
+    "entity_type": "Person",
+    "aliases": [
+      "Jimmy Kha"
+    ],
+    "countries": [
+      "United States",
+      "Vietnam"
+    ],
+    "regions": [
+      "North America",
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Rhino horn trafficker"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000003"
+    ],
+    "source_ids": [
+      "SRC-000003"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2013-05-15"
+  },
+  {
+    "entity_id": "IWT-P-000004",
+    "canonical_name": "Felix Kha",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Vietnam"
+    ],
+    "regions": [
+      "North America",
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Rhino horn trafficker"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000004"
+    ],
+    "source_ids": [
+      "SRC-000003"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2013-05-15"
+  },
+  {
+    "entity_id": "IWT-B-000001",
+    "canonical_name": "Win Lee Corporation",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Corporate defendant in rhino trafficking case"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000005"
+    ],
+    "source_ids": [
+      "SRC-000003"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2013-05-15"
+  },
+  {
+    "entity_id": "IWT-P-000005",
+    "canonical_name": "Qiang Wang",
+    "entity_type": "Person",
+    "aliases": [
+      "Jeffrey Wang"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Antiques dealer"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000006"
+    ],
+    "source_ids": [
+      "SRC-000004"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2013-12-05"
+  },
+  {
+    "entity_id": "IWT-P-000006",
+    "canonical_name": "Zhifei Li",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "China"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Trafficking ringleader",
+      "antiques businessman"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000007"
+    ],
+    "source_ids": [
+      "SRC-000005"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2014-05-28"
+  },
+  {
+    "entity_id": "IWT-B-000002",
+    "canonical_name": "Overseas Treasure Finding",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "Shandong, China"
+    ],
+    "regions": [
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Connected Entity",
+    "roles": [
+      "Antiques business owned by convicted trafficker Zhifei Li"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000008"
+    ],
+    "source_ids": [
+      "SRC-000005"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Connected business. The cited source establishes the owner's conviction, not a separate conviction of the business."
+    ],
+    "last_updated": "2014-05-28"
+  },
+  {
+    "entity_id": "IWT-P-000007",
+    "canonical_name": "David Hausman",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Antiques dealer"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000009"
+    ],
+    "source_ids": [
+      "SRC-000006"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2013-02-14"
+  },
+  {
+    "entity_id": "IWT-P-000008",
+    "canonical_name": "Xiao Ju Guan",
+    "entity_type": "Person",
+    "aliases": [
+      "Tony Guan"
+    ],
+    "countries": [
+      "Canada",
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Antiques dealer"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "case_ids": [
+      "CASE-000010"
+    ],
+    "source_ids": [
+      "SRC-000007"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2015-03-25"
+  },
+  {
+    "entity_id": "IWT-B-000003",
+    "canonical_name": "Bao Antiques",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "Richmond, British Columbia, Canada"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Antiques business owned by Xiao Ju Guan"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "case_ids": [
+      "CASE-000011"
+    ],
+    "source_ids": [
+      "SRC-000007"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Connected business. Do not infer separate criminal liability beyond the source."
+    ],
+    "last_updated": "2015-03-25"
+  },
+  {
+    "entity_id": "IWT-P-000009",
+    "canonical_name": "Christopher Hayes",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Auction",
+      "estate business owner"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "case_ids": [
+      "CASE-000012"
+    ],
+    "source_ids": [
+      "SRC-000008"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2015-05-20"
+  },
+  {
+    "entity_id": "IWT-B-000004",
+    "canonical_name": "Elite Estate Buyers Inc.",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Corporate defendant"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "case_ids": [
+      "CASE-000013"
+    ],
+    "source_ids": [
+      "SRC-000008"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2015-05-20"
+  },
+  {
+    "entity_id": "IWT-P-000010",
+    "canonical_name": "Ning Qiu",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "China"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Antiques appraiser"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000014"
+    ],
+    "source_ids": [
+      "SRC-000009"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2015-05-14"
+  },
+  {
+    "entity_id": "IWT-P-000011",
+    "canonical_name": "Linxun Liao",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Canada",
+      "United States",
+      "China"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Wildlife smuggler"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000015"
+    ],
+    "source_ids": [
+      "SRC-000010"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2015-11-13"
+  },
+  {
+    "entity_id": "IWT-P-000012",
+    "canonical_name": "Yiwei Zheng",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "China"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Antiques seller",
+      "university professor"
+    ],
+    "species_or_commodities": [
+      "Elephant ivory",
+      "rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000016"
+    ],
+    "source_ids": [
+      "SRC-000011"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2016-05-09"
+  },
+  {
+    "entity_id": "IWT-P-000013",
+    "canonical_name": "Joseph Chait",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Senior auction administrator"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "case_ids": [
+      "CASE-000017"
+    ],
+    "source_ids": [
+      "SRC-000012"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2016-06-22"
+  },
+  {
+    "entity_id": "IWT-B-000005",
+    "canonical_name": "I.M. Chait Gallery",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "Beverly Hills, United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Connected Entity",
+    "roles": [
+      "Auction house connected to convicted employee"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "case_ids": [
+      "CASE-000018"
+    ],
+    "source_ids": [
+      "SRC-000012"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Connected business only; the source does not state the gallery itself was convicted."
+    ],
+    "last_updated": "2016-06-22"
+  },
+  {
+    "entity_id": "IWT-P-000014",
+    "canonical_name": "Jacob Chait",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Auctioneer",
+      "head of acquisitions"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000019"
+    ],
+    "source_ids": [
+      "SRC-000013"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Indictment is an allegation; guilt should not be inferred from this source alone."
+    ],
+    "last_updated": "2017-02-22"
+  },
+  {
+    "entity_id": "IWT-P-000015",
+    "canonical_name": "Fengyi Zhou",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Asian art dealer"
+    ],
+    "species_or_commodities": [
+      "Black rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000020"
+    ],
+    "source_ids": [
+      "SRC-000014"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2017-09-18"
+  },
+  {
+    "entity_id": "IWT-P-000016",
+    "canonical_name": "Michael Hegarty",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Ireland",
+      "United States"
+    ],
+    "regions": [
+      "Europe",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Wildlife trafficker"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000021"
+    ],
+    "source_ids": [
+      "SRC-000015"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2017-11-14"
+  },
+  {
+    "entity_id": "IWT-N-000001",
+    "canonical_name": "Rathkeale Rovers",
+    "entity_type": "Network",
+    "aliases": [],
+    "countries": [
+      "Ireland",
+      "transnational"
+    ],
+    "regions": [
+      "Europe",
+      "Global"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Under Investigation / Alleged",
+    "roles": [
+      "Transnational organized crime network"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000022"
+    ],
+    "source_ids": [
+      "SRC-000015"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Network-level characterization in the cited prosecution; not a corporate criminal judgment."
+    ],
+    "last_updated": "2017-11-14"
+  },
+  {
+    "entity_id": "IWT-P-000017",
+    "canonical_name": "Vixay Keosavang",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Laos"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Wanted / Reward",
+    "roles": [
+      "Alleged leader of wildlife trafficking network"
+    ],
+    "species_or_commodities": [
+      "Elephants",
+      "rhinoceroses",
+      "pangolins",
+      "other wildlife"
+    ],
+    "case_ids": [
+      "CASE-000023"
+    ],
+    "source_ids": [
+      "SRC-000016"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Reward-program and intelligence designation; not itself a conviction."
+    ],
+    "last_updated": "2013-11-13"
+  },
+  {
+    "entity_id": "IWT-N-000002",
+    "canonical_name": "Xaysavang Network",
+    "entity_type": "Network",
+    "aliases": [],
+    "countries": [
+      "Laos",
+      "transnational"
+    ],
+    "regions": [
+      "Southeast Asia",
+      "Africa",
+      "Global"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Wanted / Reward",
+    "roles": [
+      "Wildlife trafficking syndicate"
+    ],
+    "species_or_commodities": [
+      "Elephants",
+      "rhinoceroses",
+      "pangolins",
+      "other wildlife"
+    ],
+    "case_ids": [
+      "CASE-000024"
+    ],
+    "source_ids": [
+      "SRC-000016"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Network designation does not mean every associated person or business was convicted."
+    ],
+    "last_updated": "2013-11-13"
+  },
+  {
+    "entity_id": "IWT-B-000006",
+    "canonical_name": "Xaysavang Trading Export Import Company Limited",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "Laos"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Connected Entity",
+    "roles": [
+      "Company associated with Xaysavang network"
+    ],
+    "species_or_commodities": [
+      "Pangolins",
+      "primates",
+      "reptiles",
+      "rhinoceroses",
+      "elephants",
+      "lions",
+      "tigers"
+    ],
+    "case_ids": [
+      "CASE-000025"
+    ],
+    "source_ids": [
+      "SRC-000017"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "NGO investigative reporting. This row records the reported connection, not a separate conviction of the company."
+    ],
+    "last_updated": "2014-02-01"
+  },
+  {
+    "entity_id": "IWT-P-000018",
+    "canonical_name": "Punpitak Chunchom",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Thailand"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charges Withdrawn / Dismissed",
+    "roles": [
+      "Alleged Xaysavang-network operative"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000026"
+    ],
+    "source_ids": [
+      "SRC-000017"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Charges were reported withdrawn. Do not treat this row as a conviction."
+    ],
+    "last_updated": "2014-02-01"
+  },
+  {
+    "entity_id": "IWT-P-000019",
+    "canonical_name": "Marnus Steyl",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "South Africa"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charges Withdrawn / Dismissed",
+    "roles": [
+      "Professional hunter",
+      "alleged facilitator"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "white rhinoceros"
+    ],
+    "case_ids": [
+      "CASE-000027"
+    ],
+    "source_ids": [
+      "SRC-000017"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Charge-stage reporting; guilt is not established by this source."
+    ],
+    "last_updated": "2014-02-01"
+  },
+  {
+    "entity_id": "IWT-P-000020",
+    "canonical_name": "Harry Claassens",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "South Africa"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charges Withdrawn / Dismissed",
+    "roles": [
+      "Alleged participant in rhino pseudo-hunt case"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000028"
+    ],
+    "source_ids": [
+      "SRC-000017"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Charges were withdrawn; this should not be represented as a conviction."
+    ],
+    "last_updated": "2014-02-01"
+  },
+  {
+    "entity_id": "IWT-P-000021",
+    "canonical_name": "Nguyen Mau Chien",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Vietnam"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Wildlife trafficking network leader"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "tigers",
+      "other wildlife"
+    ],
+    "case_ids": [
+      "CASE-000029"
+    ],
+    "source_ids": [
+      "SRC-000018"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2018-03-20"
+  },
+  {
+    "entity_id": "IWT-P-000022",
+    "canonical_name": "Nguyen Van Nam",
+    "entity_type": "Person",
+    "aliases": [
+      "Ah Nam"
+    ],
+    "countries": [
+      "Vietnam"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Major wildlife trafficker"
+    ],
+    "species_or_commodities": [
+      "Elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000030"
+    ],
+    "source_ids": [
+      "SRC-000019"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2022-09-28"
+  },
+  {
+    "entity_id": "IWT-P-000023",
+    "canonical_name": "Nguyen Duc Tai",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Vietnam"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Wildlife trafficker"
+    ],
+    "species_or_commodities": [
+      "Elephant ivory",
+      "pangolin scales",
+      "lion bones"
+    ],
+    "case_ids": [
+      "CASE-000031"
+    ],
+    "source_ids": [
+      "SRC-000020"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-02-21"
+  },
+  {
+    "entity_id": "IWT-P-000024",
+    "canonical_name": "Cao Xuan Manh",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Vietnam"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Leader of transnational trafficking network"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000032"
+    ],
+    "source_ids": [
+      "SRC-000021"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-05-16"
+  },
+  {
+    "entity_id": "IWT-P-000025",
+    "canonical_name": "Ho Van Manh",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Vietnam"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Trafficking ringleader"
+    ],
+    "species_or_commodities": [
+      "Pangolin scales"
+    ],
+    "case_ids": [
+      "CASE-000033"
+    ],
+    "source_ids": [
+      "SRC-000022"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-06-24"
+  },
+  {
+    "entity_id": "IWT-P-000026",
+    "canonical_name": "Nguyen The Du",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Vietnam"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Pangolin scale trafficker"
+    ],
+    "species_or_commodities": [
+      "African pangolin scales"
+    ],
+    "case_ids": [
+      "CASE-000034"
+    ],
+    "source_ids": [
+      "SRC-000023"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-04-24"
+  },
+  {
+    "entity_id": "IWT-P-000027",
+    "canonical_name": "Nguyen Anh Ngoc",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Vietnam"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Pangolin scale trafficker"
+    ],
+    "species_or_commodities": [
+      "African pangolin scales"
+    ],
+    "case_ids": [
+      "CASE-000035"
+    ],
+    "source_ids": [
+      "SRC-000023"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-04-24"
+  },
+  {
+    "entity_id": "IWT-P-000028",
+    "canonical_name": "Teo Boon Ching",
+    "entity_type": "Person",
+    "aliases": [
+      "Zhang",
+      "Dato Sri",
+      "Godfather"
+    ],
+    "countries": [
+      "Malaysia",
+      "United States"
+    ],
+    "regions": [
+      "Southeast Asia",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "International rhino horn trafficker"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000036"
+    ],
+    "source_ids": [
+      "SRC-000024"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-09-19"
+  },
+  {
+    "entity_id": "IWT-P-000029",
+    "canonical_name": "Boonchai Bach",
+    "entity_type": "Person",
+    "aliases": [
+      "Bach 'Boonchai' Mai"
+    ],
+    "countries": [
+      "Thailand",
+      "Vietnam"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Wildlife trafficking figure"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000037"
+    ],
+    "source_ids": [
+      "SRC-000025"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Name variants appear across reporting; source wording and final case chronology should be checked before external publication."
+    ],
+    "last_updated": "2023-02-15"
+  },
+  {
+    "entity_id": "IWT-P-000030",
+    "canonical_name": "Ludvik Berousek",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Czech Republic"
+    ],
+    "regions": [
+      "Europe"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Big-cat trader"
+    ],
+    "species_or_commodities": [
+      "Tigers",
+      "tiger body parts"
+    ],
+    "case_ids": [
+      "CASE-000038"
+    ],
+    "source_ids": [
+      "SRC-000026"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2019-06-05"
+  },
+  {
+    "entity_id": "IWT-P-000031",
+    "canonical_name": "Yang Fenglan",
+    "entity_type": "Person",
+    "aliases": [
+      "Yang Feng Glan",
+      "'Ivory Queen'"
+    ],
+    "countries": [
+      "Tanzania",
+      "China"
+    ],
+    "regions": [
+      "Africa",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Ivory trafficking organizer"
+    ],
+    "species_or_commodities": [
+      "Elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000039"
+    ],
+    "source_ids": [
+      "SRC-000027"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2019-02-19"
+  },
+  {
+    "entity_id": "IWT-P-000032",
+    "canonical_name": "Salivius Matembo",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Tanzania"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Co-defendant in ivory trafficking case"
+    ],
+    "species_or_commodities": [
+      "Elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000040"
+    ],
+    "source_ids": [
+      "SRC-000027"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2019-02-19"
+  },
+  {
+    "entity_id": "IWT-P-000033",
+    "canonical_name": "Manase Philemon",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Tanzania"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Co-defendant in ivory trafficking case"
+    ],
+    "species_or_commodities": [
+      "Elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000041"
+    ],
+    "source_ids": [
+      "SRC-000027"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2019-02-19"
+  },
+  {
+    "entity_id": "IWT-P-000034",
+    "canonical_name": "Moazu Kromah",
+    "entity_type": "Person",
+    "aliases": [
+      "Ayoub",
+      "Ayuba",
+      "Kampala Man"
+    ],
+    "countries": [
+      "Uganda",
+      "United States"
+    ],
+    "regions": [
+      "Africa",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Transnational wildlife trafficker"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000042"
+    ],
+    "source_ids": [
+      "SRC-000028"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2022-08-18"
+  },
+  {
+    "entity_id": "IWT-P-000035",
+    "canonical_name": "Amara Cherif",
+    "entity_type": "Person",
+    "aliases": [
+      "Bamba Issiaka"
+    ],
+    "countries": [
+      "Uganda",
+      "West Africa",
+      "United States"
+    ],
+    "regions": [
+      "Africa",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Transnational wildlife trafficker"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000043"
+    ],
+    "source_ids": [
+      "SRC-000029"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2022-12-15"
+  },
+  {
+    "entity_id": "IWT-P-000036",
+    "canonical_name": "Mansur Mohamed Surur",
+    "entity_type": "Person",
+    "aliases": [
+      "Mansour"
+    ],
+    "countries": [
+      "Kenya",
+      "Uganda",
+      "United States"
+    ],
+    "regions": [
+      "Africa",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Transnational wildlife trafficker"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000044"
+    ],
+    "source_ids": [
+      "SRC-000030"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2022-06-16"
+  },
+  {
+    "entity_id": "IWT-P-000037",
+    "canonical_name": "Abdi Hussein Ahmed",
+    "entity_type": "Person",
+    "aliases": [
+      "Abu Khadi"
+    ],
+    "countries": [
+      "Kenya",
+      "United States"
+    ],
+    "regions": [
+      "Africa",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Transnational wildlife trafficker"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000045"
+    ],
+    "source_ids": [
+      "SRC-000031"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-05-11"
+  },
+  {
+    "entity_id": "IWT-P-000038",
+    "canonical_name": "Badru Abdul Aziz Saleh",
+    "entity_type": "Person",
+    "aliases": [
+      "Badro"
+    ],
+    "countries": [
+      "Kenya"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Alleged member of trafficking enterprise"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "case_ids": [
+      "CASE-000046"
+    ],
+    "source_ids": [
+      "SRC-000028"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Charge-stage / co-defendant status in the cited source; do not infer conviction."
+    ],
+    "last_updated": "2022-08-18"
+  },
+  {
+    "entity_id": "IWT-P-000039",
+    "canonical_name": "Shamsideen Abubakar",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Nigeria"
+    ],
+    "regions": [
+      "West Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Arrested / Detained",
+    "roles": [
+      "Suspected high-level wildlife trafficker"
+    ],
+    "species_or_commodities": [
+      "Pangolin scales",
+      "elephant ivory",
+      "wildlife products"
+    ],
+    "case_ids": [
+      "CASE-000047"
+    ],
+    "source_ids": [
+      "SRC-000032"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Arrest and suspicion are not proof of guilt."
+    ],
+    "last_updated": "2026-04-23"
+  },
+  {
+    "entity_id": "IWT-P-000040",
+    "canonical_name": "Felix Maiva",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Nigeria"
+    ],
+    "regions": [
+      "West Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Arrested / Detained",
+    "roles": [
+      "Fugitive suspect in wildlife trafficking case"
+    ],
+    "species_or_commodities": [
+      "Pangolin scales",
+      "ivory",
+      "wildlife products"
+    ],
+    "case_ids": [
+      "CASE-000048"
+    ],
+    "source_ids": [
+      "SRC-000033"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Arrest-stage reporting; guilt is not established."
+    ],
+    "last_updated": "2023-09-30"
+  },
+  {
+    "entity_id": "IWT-P-000041",
+    "canonical_name": "Phan Viet Chi",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Nigeria",
+      "Vietnam"
+    ],
+    "regions": [
+      "West Africa",
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Member of transnational wildlife trafficking group"
+    ],
+    "species_or_commodities": [
+      "Pangolin scales",
+      "elephant ivory",
+      "rhino horn",
+      "lion bones"
+    ],
+    "case_ids": [
+      "CASE-000049"
+    ],
+    "source_ids": [
+      "SRC-000034"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-07-21"
+  },
+  {
+    "entity_id": "IWT-P-000042",
+    "canonical_name": "Phan Hong Quan",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Nigeria",
+      "Vietnam"
+    ],
+    "regions": [
+      "West Africa",
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Member of transnational wildlife trafficking group"
+    ],
+    "species_or_commodities": [
+      "Pangolin scales",
+      "elephant ivory",
+      "rhino horn",
+      "lion bones"
+    ],
+    "case_ids": [
+      "CASE-000050"
+    ],
+    "source_ids": [
+      "SRC-000034"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-07-21"
+  },
+  {
+    "entity_id": "IWT-P-000043",
+    "canonical_name": "Duong Van Thang",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Nigeria",
+      "Vietnam"
+    ],
+    "regions": [
+      "West Africa",
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Member of transnational wildlife trafficking group"
+    ],
+    "species_or_commodities": [
+      "Pangolin scales",
+      "elephant ivory",
+      "rhino horn",
+      "lion bones"
+    ],
+    "case_ids": [
+      "CASE-000051"
+    ],
+    "source_ids": [
+      "SRC-000034"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-07-21"
+  },
+  {
+    "entity_id": "IWT-P-000044",
+    "canonical_name": "Mory Berrette",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Nigeria",
+      "Guinea"
+    ],
+    "regions": [
+      "West Africa",
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Member of transnational wildlife trafficking group"
+    ],
+    "species_or_commodities": [
+      "Pangolin scales",
+      "elephant ivory",
+      "rhino horn",
+      "lion bones"
+    ],
+    "case_ids": [
+      "CASE-000052"
+    ],
+    "source_ids": [
+      "SRC-000034"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-07-21"
+  },
+  {
+    "entity_id": "IWT-P-000045",
+    "canonical_name": "Lin Yunhua",
+    "entity_type": "Person",
+    "aliases": [
+      "Yunhua Lin"
+    ],
+    "countries": [
+      "Malawi",
+      "China"
+    ],
+    "regions": [
+      "Southern Africa",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Wildlife crime syndicate leader"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "other wildlife products"
+    ],
+    "case_ids": [
+      "CASE-000053"
+    ],
+    "source_ids": [
+      "SRC-000035"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2021-09-28"
+  },
+  {
+    "entity_id": "IWT-N-000003",
+    "canonical_name": "Lin-Zhang syndicate",
+    "entity_type": "Network",
+    "aliases": [],
+    "countries": [
+      "Malawi",
+      "transnational"
+    ],
+    "regions": [
+      "Southern Africa",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Wildlife trafficking syndicate"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "hippo teeth",
+      "pangolin scales"
+    ],
+    "case_ids": [
+      "CASE-000054"
+    ],
+    "source_ids": [
+      "SRC-000035"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Network row summarizes convictions of members rather than a legal judgment against a corporate entity."
+    ],
+    "last_updated": "2021-09-28"
+  },
+  {
+    "entity_id": "IWT-P-000046",
+    "canonical_name": "Simon Valoi",
+    "entity_type": "Person",
+    "aliases": [
+      "Navara"
+    ],
+    "countries": [
+      "Mozambique"
+    ],
+    "regions": [
+      "Southern Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Rhino poaching",
+      "trafficking boss"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000055"
+    ],
+    "source_ids": [
+      "SRC-000036"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2024-09-19"
+  },
+  {
+    "entity_id": "IWT-P-000047",
+    "canonical_name": "Paulo Zucula",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Mozambique"
+    ],
+    "regions": [
+      "Southern Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Senior associate in rhino trafficking group"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000056"
+    ],
+    "source_ids": [
+      "SRC-000036"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2024-09-19"
+  },
+  {
+    "entity_id": "IWT-P-000048",
+    "canonical_name": "Chabane Assuba",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Mozambique"
+    ],
+    "regions": [
+      "Southern Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Rhino horn supplier",
+      "facilitator"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000057"
+    ],
+    "source_ids": [
+      "SRC-000036"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2024-09-19"
+  },
+  {
+    "entity_id": "IWT-P-000049",
+    "canonical_name": "Francis Kipampa",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "South Africa",
+      "Tanzania"
+    ],
+    "regions": [
+      "Southern Africa",
+      "East Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Rhino horn trafficker"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000058"
+    ],
+    "source_ids": [
+      "SRC-000037"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-01-18"
+  },
+  {
+    "entity_id": "IWT-P-000050",
+    "canonical_name": "Petrus Sidney Mabuza",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "South Africa"
+    ],
+    "regions": [
+      "Southern Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Under Investigation / Alleged",
+    "roles": [
+      "Lead suspect in rhino-poaching syndicate"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000059"
+    ],
+    "source_ids": [
+      "SRC-000037"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Investigative designation only; subject was deceased before a final criminal judgment."
+    ],
+    "last_updated": "2025-01-18"
+  },
+  {
+    "entity_id": "IWT-P-000051",
+    "canonical_name": "Dawie Groenewald",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "South Africa"
+    ],
+    "regions": [
+      "Southern Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Game farmer",
+      "alleged syndicate mastermind"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros",
+      "rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000060"
+    ],
+    "source_ids": [
+      "SRC-000038"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-06-18"
+  },
+  {
+    "entity_id": "IWT-P-000052",
+    "canonical_name": "Tielman Erasmus",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "South Africa"
+    ],
+    "regions": [
+      "Southern Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Co-defendant in rhino trafficking case"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros",
+      "rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000061"
+    ],
+    "source_ids": [
+      "SRC-000038"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-06-18"
+  },
+  {
+    "entity_id": "IWT-P-000053",
+    "canonical_name": "John Hume",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "South Africa"
+    ],
+    "regions": [
+      "Southern Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Rhino breeder",
+      "accused trafficking syndicate leader"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000062"
+    ],
+    "source_ids": [
+      "SRC-000039"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Pending criminal case. Hume denies the allegations; no conviction should be inferred."
+    ],
+    "last_updated": "2026-03-24"
+  },
+  {
+    "entity_id": "IWT-P-000054",
+    "canonical_name": "Edward Motlatsi Phiri",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "South Africa"
+    ],
+    "regions": [
+      "Southern Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Pangolin trafficker"
+    ],
+    "species_or_commodities": [
+      "Temminck's pangolin"
+    ],
+    "case_ids": [
+      "CASE-000063"
+    ],
+    "source_ids": [
+      "SRC-000040"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-06-10"
+  },
+  {
+    "entity_id": "IWT-P-000055",
+    "canonical_name": "Feisal Mohamed Ali",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Kenya"
+    ],
+    "regions": [
+      "East Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Rhino-horn trafficking defendant"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "historical elephant ivory case"
+    ],
+    "case_ids": [
+      "CASE-000064"
+    ],
+    "source_ids": [
+      "SRC-000041"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "2025 rhino-horn charge is pending; defendant pleaded not guilty."
+    ],
+    "last_updated": "2025-09-16"
+  },
+  {
+    "entity_id": "IWT-P-000056",
+    "canonical_name": "Mohammed Hassan",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Kenya"
+    ],
+    "regions": [
+      "East Africa"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Co-defendant in rhino-horn case"
+    ],
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "case_ids": [
+      "CASE-000065"
+    ],
+    "source_ids": [
+      "SRC-000041"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Pending charge; defendant pleaded not guilty."
+    ],
+    "last_updated": "2025-09-16"
+  },
+  {
+    "entity_id": "IWT-P-000057",
+    "canonical_name": "Herdade Lokua",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Democratic Republic of the Congo",
+      "United States"
+    ],
+    "regions": [
+      "Central Africa",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "International wildlife trafficker"
+    ],
+    "species_or_commodities": [
+      "Elephant ivory",
+      "white rhinoceros horn",
+      "pangolin scales"
+    ],
+    "case_ids": [
+      "CASE-000066"
+    ],
+    "source_ids": [
+      "SRC-000042"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2022-11-01"
+  },
+  {
+    "entity_id": "IWT-P-000058",
+    "canonical_name": "Jospin Mujangi",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Democratic Republic of the Congo",
+      "United States"
+    ],
+    "regions": [
+      "Central Africa",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "International wildlife trafficker"
+    ],
+    "species_or_commodities": [
+      "Elephant ivory",
+      "white rhinoceros horn",
+      "pangolin scales"
+    ],
+    "case_ids": [
+      "CASE-000067"
+    ],
+    "source_ids": [
+      "SRC-000042"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2022-11-01"
+  },
+  {
+    "entity_id": "IWT-P-000059",
+    "canonical_name": "Jorge A. Gutierrez",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Wildlife trafficking middleman"
+    ],
+    "species_or_commodities": [
+      "Reptiles",
+      "amphibians",
+      "birds"
+    ],
+    "case_ids": [
+      "CASE-000068"
+    ],
+    "source_ids": [
+      "SRC-000043"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2021-10-01"
+  },
+  {
+    "entity_id": "IWT-P-000060",
+    "canonical_name": "Michael Van Nostrand",
+    "entity_type": "Person",
+    "aliases": [
+      "The Lizard King"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Reptile dealer"
+    ],
+    "species_or_commodities": [
+      "Florida turtles"
+    ],
+    "case_ids": [
+      "CASE-000069"
+    ],
+    "source_ids": [
+      "SRC-000044"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2022-04-21"
+  },
+  {
+    "entity_id": "IWT-B-000007",
+    "canonical_name": "Strictly Reptiles, Inc.",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "Florida, United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Reptile business",
+      "corporate defendant"
+    ],
+    "species_or_commodities": [
+      "Florida turtles"
+    ],
+    "case_ids": [
+      "CASE-000070"
+    ],
+    "source_ids": [
+      "SRC-000044"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2022-04-21"
+  },
+  {
+    "entity_id": "IWT-P-000061",
+    "canonical_name": "Jonathan Roberto Rojas-Casados",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Defendant in live-animal export case"
+    ],
+    "species_or_commodities": [
+      "Reptiles and other live wildlife"
+    ],
+    "case_ids": [
+      "CASE-000071"
+    ],
+    "source_ids": [
+      "SRC-000045"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Charge-stage reporting; guilt is not established."
+    ],
+    "last_updated": "2022-09-01"
+  },
+  {
+    "entity_id": "IWT-P-000062",
+    "canonical_name": "Roberto Rojas-Ramirez",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Defendant in live-animal export case"
+    ],
+    "species_or_commodities": [
+      "Reptiles and other live wildlife"
+    ],
+    "case_ids": [
+      "CASE-000072"
+    ],
+    "source_ids": [
+      "SRC-000045"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Charge-stage reporting; guilt is not established."
+    ],
+    "last_updated": "2022-09-01"
+  },
+  {
+    "entity_id": "IWT-P-000063",
+    "canonical_name": "Roberto Angel Roman-Alvarez",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Defendant in live-animal export case"
+    ],
+    "species_or_commodities": [
+      "Reptiles and other live wildlife"
+    ],
+    "case_ids": [
+      "CASE-000073"
+    ],
+    "source_ids": [
+      "SRC-000045"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Charge-stage reporting; guilt is not established."
+    ],
+    "last_updated": "2022-09-01"
+  },
+  {
+    "entity_id": "IWT-P-000064",
+    "canonical_name": "Jose Manuel Perez",
+    "entity_type": "Person",
+    "aliases": [
+      "Julio Rodriguez"
+    ],
+    "countries": [
+      "United States",
+      "Mexico",
+      "Hong Kong"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "International reptile trafficker"
+    ],
+    "species_or_commodities": [
+      "Reptiles"
+    ],
+    "case_ids": [
+      "CASE-000074"
+    ],
+    "source_ids": [
+      "SRC-000046"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-05-29"
+  },
+  {
+    "entity_id": "IWT-P-000065",
+    "canonical_name": "Stephany Perez",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Co-conspirator in reptile trafficking scheme"
+    ],
+    "species_or_commodities": [
+      "Reptiles"
+    ],
+    "case_ids": [
+      "CASE-000075"
+    ],
+    "source_ids": [
+      "SRC-000047"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-06-01"
+  },
+  {
+    "entity_id": "IWT-P-000066",
+    "canonical_name": "Stanlee Fazi",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Turtle trafficker"
+    ],
+    "species_or_commodities": [
+      "Eastern box turtles"
+    ],
+    "case_ids": [
+      "CASE-000076"
+    ],
+    "source_ids": [
+      "SRC-000048"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-05-01"
+  },
+  {
+    "entity_id": "IWT-P-000067",
+    "canonical_name": "Jorge Morfin",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Wildlife smuggler"
+    ],
+    "species_or_commodities": [
+      "Dried seahorses"
+    ],
+    "case_ids": [
+      "CASE-000077"
+    ],
+    "source_ids": [
+      "SRC-000047"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-06-01"
+  },
+  {
+    "entity_id": "IWT-P-000068",
+    "canonical_name": "Michael Amato",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Europe"
+    ],
+    "regions": [
+      "North America",
+      "Europe"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Wildlife smuggler"
+    ],
+    "species_or_commodities": [
+      "Taxidermy birds"
+    ],
+    "case_ids": [
+      "CASE-000078"
+    ],
+    "source_ids": [
+      "SRC-000047"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-06-01"
+  },
+  {
+    "entity_id": "IWT-P-000069",
+    "canonical_name": "John Michael Kreatsoulas",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Germany",
+      "Hong Kong"
+    ],
+    "regions": [
+      "North America",
+      "Europe",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Reptile business owner"
+    ],
+    "species_or_commodities": [
+      "Florida freshwater turtles"
+    ],
+    "case_ids": [
+      "CASE-000079"
+    ],
+    "source_ids": [
+      "SRC-000049"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2024-05-28"
+  },
+  {
+    "entity_id": "IWT-B-000008",
+    "canonical_name": "Omni Reptiles Inc.",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "Florida, United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Connected Entity",
+    "roles": [
+      "Reptile business operated by convicted trafficker"
+    ],
+    "species_or_commodities": [
+      "Florida freshwater turtles"
+    ],
+    "case_ids": [
+      "CASE-000080"
+    ],
+    "source_ids": [
+      "SRC-000049"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Connected business only; source does not state a separate conviction of the company."
+    ],
+    "last_updated": "2024-05-28"
+  },
+  {
+    "entity_id": "IWT-P-000070",
+    "canonical_name": "Nancy Teresa Gonzalez de Barberi",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Colombia",
+      "United States"
+    ],
+    "regions": [
+      "South America",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Luxury handbag company founder"
+    ],
+    "species_or_commodities": [
+      "Caiman",
+      "python"
+    ],
+    "case_ids": [
+      "CASE-000081"
+    ],
+    "source_ids": [
+      "SRC-000050"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2024-04-22"
+  },
+  {
+    "entity_id": "IWT-P-000071",
+    "canonical_name": "Mauricio Giraldo",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Colombia",
+      "United States"
+    ],
+    "regions": [
+      "South America",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Co-conspirator in wildlife-skin smuggling case"
+    ],
+    "species_or_commodities": [
+      "Caiman",
+      "python"
+    ],
+    "case_ids": [
+      "CASE-000082"
+    ],
+    "source_ids": [
+      "SRC-000050"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2024-04-22"
+  },
+  {
+    "entity_id": "IWT-P-000072",
+    "canonical_name": "John Camilo Aguilar Jaramillo",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Colombia",
+      "United States"
+    ],
+    "regions": [
+      "South America",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Co-defendant in wildlife-skin smuggling case"
+    ],
+    "species_or_commodities": [
+      "Caiman",
+      "python"
+    ],
+    "case_ids": [
+      "CASE-000083"
+    ],
+    "source_ids": [
+      "SRC-000050"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2024-04-22"
+  },
+  {
+    "entity_id": "IWT-B-000009",
+    "canonical_name": "Gzuniga Ltd.",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "Colombia"
+    ],
+    "regions": [
+      "South America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Luxury handbag company",
+      "corporate defendant"
+    ],
+    "species_or_commodities": [
+      "Caiman",
+      "python"
+    ],
+    "case_ids": [
+      "CASE-000084"
+    ],
+    "source_ids": [
+      "SRC-000050"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2024-04-22"
+  },
+  {
+    "entity_id": "IWT-P-000073",
+    "canonical_name": "Bhagavan Antle",
+    "entity_type": "Person",
+    "aliases": [
+      "Doc Antle",
+      "Kevin Antle"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Exotic-animal facility owner"
+    ],
+    "species_or_commodities": [
+      "Cheetahs",
+      "lions",
+      "tigers",
+      "chimpanzee",
+      "other protected wildlife"
+    ],
+    "case_ids": [
+      "CASE-000085"
+    ],
+    "source_ids": [
+      "SRC-000051"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-07-08"
+  },
+  {
+    "entity_id": "IWT-P-000074",
+    "canonical_name": "Jason Clay",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Exotic-animal facility owner",
+      "co-defendant"
+    ],
+    "species_or_commodities": [
+      "Chimpanzee",
+      "gibbon"
+    ],
+    "case_ids": [
+      "CASE-000086"
+    ],
+    "source_ids": [
+      "SRC-000051"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-07-08"
+  },
+  {
+    "entity_id": "IWT-P-000075",
+    "canonical_name": "Meredith Bybee",
+    "entity_type": "Person",
+    "aliases": [
+      "Moksha Bybee"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Exotic-animal facility associate"
+    ],
+    "species_or_commodities": [
+      "Lemurs",
+      "cheetahs",
+      "chimpanzee",
+      "other protected wildlife"
+    ],
+    "case_ids": [
+      "CASE-000087"
+    ],
+    "source_ids": [
+      "SRC-000052"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Indictment-stage allegation; this source alone does not establish guilt."
+    ],
+    "last_updated": "2022-06-30"
+  },
+  {
+    "entity_id": "IWT-P-000076",
+    "canonical_name": "Charles Sammut",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Exotic-animal facility owner"
+    ],
+    "species_or_commodities": [
+      "Lemurs",
+      "cheetahs",
+      "chimpanzee",
+      "other protected wildlife"
+    ],
+    "case_ids": [
+      "CASE-000088"
+    ],
+    "source_ids": [
+      "SRC-000052"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Indictment-stage allegation; this source alone does not establish guilt."
+    ],
+    "last_updated": "2022-06-30"
+  },
+  {
+    "entity_id": "IWT-P-000077",
+    "canonical_name": "Andrew Jon Sawyer",
+    "entity_type": "Person",
+    "aliases": [
+      "Omar Sawyer"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Co-defendant",
+      "alleged financial facilitator"
+    ],
+    "species_or_commodities": [
+      "Wildlife-trafficking proceeds",
+      "related conduct"
+    ],
+    "case_ids": [
+      "CASE-000089"
+    ],
+    "source_ids": [
+      "SRC-000052"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "This row records a connected money-laundering allegation, not a wildlife-trafficking conviction."
+    ],
+    "last_updated": "2022-06-30"
+  },
+  {
+    "entity_id": "IWT-B-000010",
+    "canonical_name": "Myrtle Beach Safari / T.I.G.E.R.S.",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "South Carolina, United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Exotic-animal facility operated by Bhagavan Antle"
+    ],
+    "species_or_commodities": [
+      "Big cats",
+      "primates",
+      "other protected wildlife"
+    ],
+    "case_ids": [
+      "CASE-000090"
+    ],
+    "source_ids": [
+      "SRC-000051"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Connected facility. Do not infer separate corporate liability unless separately established."
+    ],
+    "last_updated": "2025-07-08"
+  },
+  {
+    "entity_id": "IWT-O-000001",
+    "canonical_name": "Rare Species Fund",
+    "entity_type": "Organization",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Connected Entity",
+    "roles": [
+      "Nonprofit named in convicted individual's scheme"
+    ],
+    "species_or_commodities": [
+      "Protected wildlife transactions"
+    ],
+    "case_ids": [
+      "CASE-000091"
+    ],
+    "source_ids": [
+      "SRC-000053"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Connected entity only. The cited source does not state the nonprofit itself was charged or convicted."
+    ],
+    "last_updated": "2023-11-06"
+  },
+  {
+    "entity_id": "IWT-B-000011",
+    "canonical_name": "Franklin Drive Thru Safari",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "Texas, United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Exotic-animal facility owned by Jason Clay"
+    ],
+    "species_or_commodities": [
+      "Chimpanzee",
+      "gibbon",
+      "exotic wildlife"
+    ],
+    "case_ids": [
+      "CASE-000092"
+    ],
+    "source_ids": [
+      "SRC-000051"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Connected business only; no separate corporate conviction stated."
+    ],
+    "last_updated": "2025-07-08"
+  },
+  {
+    "entity_id": "IWT-B-000012",
+    "canonical_name": "Vision Quest Ranch",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "California, United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Exotic-animal facility owned by Charles Sammut"
+    ],
+    "species_or_commodities": [
+      "Protected wildlife"
+    ],
+    "case_ids": [
+      "CASE-000093"
+    ],
+    "source_ids": [
+      "SRC-000052"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Connected facility; allegation-stage source."
+    ],
+    "last_updated": "2022-06-30"
+  },
+  {
+    "entity_id": "IWT-P-000078",
+    "canonical_name": "Akbar Akram",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Philippines"
+    ],
+    "regions": [
+      "North America",
+      "Southeast Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Live reptile trafficker"
+    ],
+    "species_or_commodities": [
+      "Water monitor lizards"
+    ],
+    "case_ids": [
+      "CASE-000094"
+    ],
+    "source_ids": [
+      "SRC-000054"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2020-01-08"
+  },
+  {
+    "entity_id": "IWT-P-000079",
+    "canonical_name": "Lauren H. DeLoach",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Marine wildlife parts trader"
+    ],
+    "species_or_commodities": [
+      "Sperm whale teeth",
+      "bones"
+    ],
+    "case_ids": [
+      "CASE-000095"
+    ],
+    "source_ids": [
+      "SRC-000055"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-04-10"
+  },
+  {
+    "entity_id": "IWT-P-000080",
+    "canonical_name": "Russell Milis",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "China",
+      "Hong Kong"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Turtle trafficker"
+    ],
+    "species_or_commodities": [
+      "Protected turtles"
+    ],
+    "case_ids": [
+      "CASE-000096"
+    ],
+    "source_ids": [
+      "SRC-000056"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-10-23"
+  },
+  {
+    "entity_id": "IWT-P-000081",
+    "canonical_name": "Paul Jacob Elliott Sommers",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Wildlife smuggler"
+    ],
+    "species_or_commodities": [
+      "Wildlife",
+      "exotic animals"
+    ],
+    "case_ids": [
+      "CASE-000097"
+    ],
+    "source_ids": [
+      "SRC-000056"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-10-17"
+  },
+  {
+    "entity_id": "IWT-P-000082",
+    "canonical_name": "Jason Lee Wagner",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Reptile trafficker"
+    ],
+    "species_or_commodities": [
+      "Endangered reptiles"
+    ],
+    "case_ids": [
+      "CASE-000098"
+    ],
+    "source_ids": [
+      "SRC-000057"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-02-10"
+  },
+  {
+    "entity_id": "IWT-P-000083",
+    "canonical_name": "Andrew Laughlin",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Reptile smuggler"
+    ],
+    "species_or_commodities": [
+      "Reptiles"
+    ],
+    "case_ids": [
+      "CASE-000099"
+    ],
+    "source_ids": [
+      "SRC-000057"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-02-10"
+  },
+  {
+    "entity_id": "IWT-P-000084",
+    "canonical_name": "Naim Lajud Libien",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Bird smuggler"
+    ],
+    "species_or_commodities": [
+      "Orange-fronted parakeets"
+    ],
+    "case_ids": [
+      "CASE-000100"
+    ],
+    "source_ids": [
+      "SRC-000058"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-09-02"
+  },
+  {
+    "entity_id": "IWT-P-000085",
+    "canonical_name": "Janely Aylin Vela",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Primate smuggler"
+    ],
+    "species_or_commodities": [
+      "Capuchin monkeys"
+    ],
+    "case_ids": [
+      "CASE-000101"
+    ],
+    "source_ids": [
+      "SRC-000056"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-10-07"
+  },
+  {
+    "entity_id": "IWT-P-000086",
+    "canonical_name": "Ricardo Alonzo",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Bird smuggler"
+    ],
+    "species_or_commodities": [
+      "Exotic birds"
+    ],
+    "case_ids": [
+      "CASE-000102"
+    ],
+    "source_ids": [
+      "SRC-000059"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-03-23"
+  },
+  {
+    "entity_id": "IWT-P-000087",
+    "canonical_name": "Carlos Abundez",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Bird smuggler"
+    ],
+    "species_or_commodities": [
+      "Keel-billed toucans"
+    ],
+    "case_ids": [
+      "CASE-000103"
+    ],
+    "source_ids": [
+      "SRC-000059"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-03-23"
+  },
+  {
+    "entity_id": "IWT-P-000088",
+    "canonical_name": "Jesse Agus Martinez",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Bird-smuggling defendant"
+    ],
+    "species_or_commodities": [
+      "Orange-fronted parakeets"
+    ],
+    "case_ids": [
+      "CASE-000104"
+    ],
+    "source_ids": [
+      "SRC-000060"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Indictment-stage allegation."
+    ],
+    "last_updated": "2025-11-14"
+  },
+  {
+    "entity_id": "IWT-P-000089",
+    "canonical_name": "Donald Do",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Taiwan"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Turtle export defendant"
+    ],
+    "species_or_commodities": [
+      "Loggerhead musk turtles"
+    ],
+    "case_ids": [
+      "CASE-000105"
+    ],
+    "source_ids": [
+      "SRC-000061"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Pending charges; allegations are not proof of guilt."
+    ],
+    "last_updated": "2026-05-15"
+  },
+  {
+    "entity_id": "IWT-P-000090",
+    "canonical_name": "Albert Bazaar",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Alleged turtle poacher",
+      "supplier"
+    ],
+    "species_or_commodities": [
+      "Loggerhead musk turtles",
+      "stripe-neck musk turtles",
+      "striped mud turtles"
+    ],
+    "case_ids": [
+      "CASE-000106"
+    ],
+    "source_ids": [
+      "SRC-000062"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Pending charges; allegations are not proof of guilt."
+    ],
+    "last_updated": "2026-05-07"
+  },
+  {
+    "entity_id": "IWT-P-000091",
+    "canonical_name": "Kin Keung Ho",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Hong Kong"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Turtle trafficker"
+    ],
+    "species_or_commodities": [
+      "Protected turtles"
+    ],
+    "case_ids": [
+      "CASE-000107"
+    ],
+    "source_ids": [
+      "SRC-000063"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-07-23"
+  },
+  {
+    "entity_id": "IWT-P-000092",
+    "canonical_name": "Lihua Owen Ma",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Hong Kong"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Turtle trafficker"
+    ],
+    "species_or_commodities": [
+      "Protected turtles"
+    ],
+    "case_ids": [
+      "CASE-000108"
+    ],
+    "source_ids": [
+      "SRC-000063"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-07-23"
+  },
+  {
+    "entity_id": "IWT-P-000093",
+    "canonical_name": "Wei Qiang Lin",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States",
+      "Hong Kong"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Reptile trafficker"
+    ],
+    "species_or_commodities": [
+      "Box turtles",
+      "snakes",
+      "lizards"
+    ],
+    "case_ids": [
+      "CASE-000109"
+    ],
+    "source_ids": [
+      "SRC-000064"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-12-24"
+  },
+  {
+    "entity_id": "IWT-P-000094",
+    "canonical_name": "Sai Keung Tin",
+    "entity_type": "Person",
+    "aliases": [
+      "Ricky Tin"
+    ],
+    "countries": [
+      "United States",
+      "Hong Kong"
+    ],
+    "regions": [
+      "North America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Turtle trafficker"
+    ],
+    "species_or_commodities": [
+      "Protected turtles"
+    ],
+    "case_ids": [
+      "CASE-000110"
+    ],
+    "source_ids": [
+      "SRC-000065"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2025-03-14"
+  },
+  {
+    "entity_id": "IWT-P-000095",
+    "canonical_name": "Jimmy Wayne Hammonds",
+    "entity_type": "Person",
+    "aliases": [
+      "The Monkey Whisperer"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Convicted / Sentenced",
+    "roles": [
+      "Primate dealer"
+    ],
+    "species_or_commodities": [
+      "Primates",
+      "cotton-top tamarins",
+      "capuchin monkey"
+    ],
+    "case_ids": [
+      "CASE-000111"
+    ],
+    "source_ids": [
+      "SRC-000066"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-03-26"
+  },
+  {
+    "entity_id": "IWT-P-000096",
+    "canonical_name": "Johnny D-Lane Hammonds",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Charged / Indicted",
+    "roles": [
+      "Primate-trafficking defendant"
+    ],
+    "species_or_commodities": [
+      "Monkeys",
+      "primates"
+    ],
+    "case_ids": [
+      "CASE-000112"
+    ],
+    "source_ids": [
+      "SRC-000067"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Indictment-stage allegation."
+    ],
+    "last_updated": "2024-11-15"
+  },
+  {
+    "entity_id": "IWT-B-000013",
+    "canonical_name": "The Monkey Whisperer, LLC",
+    "entity_type": "Business",
+    "aliases": [],
+    "countries": [
+      "Florida, United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Connected Entity",
+    "roles": [
+      "Wildlife breeding and sales business"
+    ],
+    "species_or_commodities": [
+      "Primates"
+    ],
+    "case_ids": [
+      "CASE-000113"
+    ],
+    "source_ids": [
+      "SRC-000068"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Connected business; source establishes the owner's conviction."
+    ],
+    "last_updated": "2022-06-09"
+  },
+  {
+    "entity_id": "IWT-P-000097",
+    "canonical_name": "Kevin Olbrych",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Turtle trafficker"
+    ],
+    "species_or_commodities": [
+      "Florida box turtles",
+      "loggerhead musk turtles",
+      "ornate diamondback terrapins"
+    ],
+    "case_ids": [
+      "CASE-000114"
+    ],
+    "source_ids": [
+      "SRC-000069"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2023-11-17"
+  },
+  {
+    "entity_id": "IWT-P-000098",
+    "canonical_name": "Héctor Rivera González",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Puerto Rico, United States"
+    ],
+    "regions": [
+      "Caribbean",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Migratory-bird trafficker"
+    ],
+    "species_or_commodities": [
+      "Migratory ducks",
+      "geese",
+      "white-crowned pigeons"
+    ],
+    "case_ids": [
+      "CASE-000115"
+    ],
+    "source_ids": [
+      "SRC-000070"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-05-22"
+  },
+  {
+    "entity_id": "IWT-P-000099",
+    "canonical_name": "Ricardo Morales-Colón",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Puerto Rico, United States"
+    ],
+    "regions": [
+      "Caribbean",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Migratory-bird trafficker"
+    ],
+    "species_or_commodities": [
+      "Migratory ducks",
+      "geese",
+      "white-crowned pigeons"
+    ],
+    "case_ids": [
+      "CASE-000116"
+    ],
+    "source_ids": [
+      "SRC-000070"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-05-22"
+  },
+  {
+    "entity_id": "IWT-P-000100",
+    "canonical_name": "Derline Cordero-Galloza",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Puerto Rico, United States"
+    ],
+    "regions": [
+      "Caribbean",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Migratory-bird trafficker"
+    ],
+    "species_or_commodities": [
+      "Migratory ducks",
+      "geese",
+      "white-crowned pigeons"
+    ],
+    "case_ids": [
+      "CASE-000117"
+    ],
+    "source_ids": [
+      "SRC-000070"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-05-22"
+  },
+  {
+    "entity_id": "IWT-P-000101",
+    "canonical_name": "Ezequiel Muñiz-Salas",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Puerto Rico, United States"
+    ],
+    "regions": [
+      "Caribbean",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Migratory-bird trafficker"
+    ],
+    "species_or_commodities": [
+      "Migratory ducks",
+      "geese",
+      "white-crowned pigeons"
+    ],
+    "case_ids": [
+      "CASE-000118"
+    ],
+    "source_ids": [
+      "SRC-000070"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-05-22"
+  },
+  {
+    "entity_id": "IWT-P-000102",
+    "canonical_name": "Edison Pérez-Collado",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Puerto Rico, United States"
+    ],
+    "regions": [
+      "Caribbean",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Pleaded Guilty",
+    "roles": [
+      "Migratory-bird trafficker"
+    ],
+    "species_or_commodities": [
+      "Migratory ducks",
+      "geese",
+      "white-crowned pigeons"
+    ],
+    "case_ids": [
+      "CASE-000119"
+    ],
+    "source_ids": [
+      "SRC-000070"
+    ],
+    "relationship_ids": [],
+    "caveats": [],
+    "last_updated": "2026-05-22"
+  },
+  {
+    "entity_id": "IWT-P-000103",
+    "canonical_name": "Ren Ji Liao",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Bolivia",
+      "China"
+    ],
+    "regions": [
+      "South America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Arrested / Detained",
+    "roles": [
+      "Jaguar-parts trafficking suspect"
+    ],
+    "species_or_commodities": [
+      "Jaguar parts"
+    ],
+    "case_ids": [
+      "CASE-000120"
+    ],
+    "source_ids": [
+      "SRC-000071"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "NGO reporting of arrests and alleged trafficking. Some names are published only in partial form."
+    ],
+    "last_updated": "2021-10-31"
+  },
+  {
+    "entity_id": "IWT-P-000104",
+    "canonical_name": "Mr Yeh",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Bolivia",
+      "China"
+    ],
+    "regions": [
+      "South America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Arrested / Detained",
+    "roles": [
+      "Jaguar-parts trafficking suspect"
+    ],
+    "species_or_commodities": [
+      "Jaguar parts"
+    ],
+    "case_ids": [
+      "CASE-000121"
+    ],
+    "source_ids": [
+      "SRC-000071"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "NGO reporting of arrests and alleged trafficking. Some names are published only in partial form."
+    ],
+    "last_updated": "2021-10-31"
+  },
+  {
+    "entity_id": "IWT-P-000105",
+    "canonical_name": "Xiao Hong",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Bolivia",
+      "China"
+    ],
+    "regions": [
+      "South America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Arrested / Detained",
+    "roles": [
+      "Jaguar-parts trafficking suspect"
+    ],
+    "species_or_commodities": [
+      "Jaguar parts"
+    ],
+    "case_ids": [
+      "CASE-000122"
+    ],
+    "source_ids": [
+      "SRC-000071"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "NGO reporting of arrests and alleged trafficking. Some names are published only in partial form."
+    ],
+    "last_updated": "2021-10-31"
+  },
+  {
+    "entity_id": "IWT-P-000106",
+    "canonical_name": "Mr Ma",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Bolivia",
+      "China"
+    ],
+    "regions": [
+      "South America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Arrested / Detained",
+    "roles": [
+      "Jaguar-parts trafficking suspect"
+    ],
+    "species_or_commodities": [
+      "Jaguar parts"
+    ],
+    "case_ids": [
+      "CASE-000123"
+    ],
+    "source_ids": [
+      "SRC-000071"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "NGO reporting of arrests and alleged trafficking. Some names are published only in partial form."
+    ],
+    "last_updated": "2021-10-31"
+  },
+  {
+    "entity_id": "IWT-P-000107",
+    "canonical_name": "Ma Zhang Yang",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Bolivia",
+      "China"
+    ],
+    "regions": [
+      "South America",
+      "East Asia"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Arrested / Detained",
+    "roles": [
+      "Jaguar-parts trafficking suspect"
+    ],
+    "species_or_commodities": [
+      "Jaguar parts"
+    ],
+    "case_ids": [
+      "CASE-000124"
+    ],
+    "source_ids": [
+      "SRC-000071"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "NGO reporting of arrests and alleged trafficking. Some names are published only in partial form."
+    ],
+    "last_updated": "2021-10-31"
+  },
+  {
+    "entity_id": "IWT-P-000108",
+    "canonical_name": "Tony Silva",
+    "entity_type": "Person",
+    "aliases": [],
+    "countries": [
+      "Brazil",
+      "United States"
+    ],
+    "regions": [
+      "South America",
+      "North America"
+    ],
+    "addresses": [],
+    "identifiers": [],
+    "websites": [],
+    "status_summary": "Under Investigation / Alleged",
+    "roles": [
+      "Bird expert",
+      "investigative subject"
+    ],
+    "species_or_commodities": [
+      "Birds",
+      "golden lion tamarin investigation context"
+    ],
+    "case_ids": [
+      "CASE-000125"
+    ],
+    "source_ids": [
+      "SRC-000072"
+    ],
+    "relationship_ids": [],
+    "caveats": [
+      "Investigative action only. The cited 2026 report does not establish guilt in the current probe."
+    ],
+    "last_updated": "2026-05-07"
+  }
+]

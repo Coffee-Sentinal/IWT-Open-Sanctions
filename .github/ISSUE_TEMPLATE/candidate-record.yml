@@ -1,0 +1,73 @@
+name: Submit a candidate IWT record
+description: Propose a public-source candidate for moderator review (this issue is public)
+title: "Candidate: [ENTITY NAME]"
+labels: [candidate-record, needs-review]
+body:
+  - type: markdown
+    attributes:
+      value: "## Public submission warning\nThis issue and everything entered below will be publicly visible. A submission is only a candidate and never enters the database automatically. Do not include unnecessary private personal data."
+  - type: input
+    id: name
+    attributes: {label: Subject/entity name}
+    validations: {required: true}
+  - type: dropdown
+    id: type
+    attributes: {label: Entity type, options: [Person, Business/company, Facility, Network, Organization, Other]}
+    validations: {required: true}
+  - type: textarea
+    id: aliases
+    attributes: {label: Aliases if known}
+  - type: input
+    id: country
+    attributes: {label: Country/jurisdiction}
+    validations: {required: true}
+  - type: input
+    id: date
+    attributes: {label: Relevant date, placeholder: YYYY-MM-DD}
+    validations: {required: true}
+  - type: dropdown
+    id: status
+    attributes: {label: Legal/investigative status, options: [Convicted / Sentenced, Pleaded Guilty, Charged / Indicted, Arrested / Detained, Under Investigation / Alleged, Wanted / Reward, Charges Withdrawn / Dismissed, Connected Entity, Unknown / Other]}
+    validations: {required: true}
+  - type: textarea
+    id: description
+    attributes: {label: Description of alleged/confirmed conduct}
+    validations: {required: true}
+  - type: input
+    id: species
+    attributes: {label: Species/commodity}
+  - type: input
+    id: network
+    attributes: {label: Case/network}
+  - type: input
+    id: source_url
+    attributes: {label: Primary public source URL}
+    validations: {required: true}
+  - type: input
+    id: publisher
+    attributes: {label: Source publisher}
+    validations: {required: true}
+  - type: input
+    id: title
+    attributes: {label: Source title}
+    validations: {required: true}
+  - type: input
+    id: source_date
+    attributes: {label: Source date}
+    validations: {required: true}
+  - type: textarea
+    id: more_sources
+    attributes: {label: Additional source URLs}
+  - type: textarea
+    id: notes
+    attributes: {label: Additional notes}
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Required confirmations
+      options:
+        - {label: I am relying on a publicly accessible source., required: true}
+        - {label: I represented legal status accurately., required: true}
+        - {label: I understand arrest, investigation or charge does not equal conviction., required: true}
+        - {label: I am not unnecessarily submitting private personal data., required: true}
+        - {label: I understand this candidate requires review before inclusion., required: true}

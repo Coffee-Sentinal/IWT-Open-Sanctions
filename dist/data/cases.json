@@ -1,0 +1,2614 @@
+[
+  {
+    "case_id": "CASE-000001",
+    "entity_ids": [
+      "IWT-P-000001"
+    ],
+    "date": "2010-09-06",
+    "year": "2010",
+    "jurisdiction": "Malaysia",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted for attempting to export protected wildlife without the required permit.",
+    "outcome": "Six months' imprisonment and RM190,000 fine reported in 2010.",
+    "description": "Attempted export of 95 boa constrictors without a permit.",
+    "species_or_commodities": [
+      "Boa constrictors"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000001"
+    ]
+  },
+  {
+    "case_id": "CASE-000002",
+    "entity_ids": [
+      "IWT-P-000002"
+    ],
+    "date": "2012-11-09",
+    "year": "2012",
+    "jurisdiction": "South Africa / Thailand",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in South Africa over a pseudo-hunting rhino horn trafficking scheme.",
+    "outcome": "Initially sentenced to 40 years in 2012; sentence was later reduced on appeal.",
+    "description": "Organized sham rhino hunts using Thai nationals to obtain horns for illegal trade.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Xaysavang-linked rhino trafficking case",
+    "source_ids": [
+      "SRC-000002"
+    ]
+  },
+  {
+    "case_id": "CASE-000003",
+    "entity_ids": [
+      "IWT-P-000003"
+    ],
+    "date": "2013-05-15",
+    "year": "2013",
+    "jurisdiction": "United States / Vietnam",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty and was sentenced for international trafficking in rhinoceros horn.",
+    "outcome": "42 months' imprisonment.",
+    "description": "Bought and sold black and white rhino horn and participated in a trafficking conspiracy with international links.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Operation Crash / Kha trafficking ring",
+    "source_ids": [
+      "SRC-000003"
+    ]
+  },
+  {
+    "case_id": "CASE-000004",
+    "entity_ids": [
+      "IWT-P-000004"
+    ],
+    "date": "2013-05-15",
+    "year": "2013",
+    "jurisdiction": "United States / Vietnam",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty and was sentenced for international trafficking in rhinoceros horn.",
+    "outcome": "46 months' imprisonment.",
+    "description": "Participated in buying and selling rhino horn as part of an international trafficking conspiracy.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Operation Crash / Kha trafficking ring",
+    "source_ids": [
+      "SRC-000003"
+    ]
+  },
+  {
+    "case_id": "CASE-000005",
+    "entity_ids": [
+      "IWT-B-000001"
+    ],
+    "date": "2013-05-15",
+    "year": "2013",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Corporate defendant sentenced in the Kha rhino horn trafficking case.",
+    "outcome": "$100,000 criminal fine.",
+    "description": "Company linked to the Kha family trafficking conspiracy.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Operation Crash / Kha trafficking ring",
+    "source_ids": [
+      "SRC-000003"
+    ]
+  },
+  {
+    "case_id": "CASE-000006",
+    "entity_ids": [
+      "IWT-P-000005"
+    ],
+    "date": "2013-12-05",
+    "year": "2013",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Sentenced for conspiracy to smuggle Asian artifacts made from protected wildlife.",
+    "outcome": "37 months' imprisonment.",
+    "description": "Trafficked and smuggled wildlife products through the antiques trade.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "network_or_case_name": "Operation Crash",
+    "source_ids": [
+      "SRC-000004"
+    ]
+  },
+  {
+    "case_id": "CASE-000007",
+    "entity_ids": [
+      "IWT-P-000006"
+    ],
+    "date": "2014-05-28",
+    "year": "2014",
+    "jurisdiction": "United States / China",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted ringleader of an international rhino horn and ivory smuggling conspiracy.",
+    "outcome": "70 months' imprisonment.",
+    "description": "Led a conspiracy involving approximately 30 rhino horns and wildlife objects valued above $4.5 million.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "network_or_case_name": "Operation Crash / Overseas Treasure Finding",
+    "source_ids": [
+      "SRC-000005"
+    ]
+  },
+  {
+    "case_id": "CASE-000008",
+    "entity_ids": [
+      "IWT-B-000002"
+    ],
+    "date": "2014-05-28",
+    "year": "2014",
+    "jurisdiction": "Shandong, China",
+    "status": "Connected Entity",
+    "status_detail": "Named as the antiques business owned by Zhifei Li in the cited prosecution.",
+    "outcome": "No separate corporate conviction stated in the cited source.",
+    "description": "Business connected to Li's international wildlife trafficking activity.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "network_or_case_name": "Operation Crash / Zhifei Li",
+    "source_ids": [
+      "SRC-000005"
+    ]
+  },
+  {
+    "case_id": "CASE-000009",
+    "entity_ids": [
+      "IWT-P-000007"
+    ],
+    "date": "2013-02-14",
+    "year": "2013",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of obstruction and false-record offenses relating to illegal rhino horn trafficking.",
+    "outcome": "Six months' imprisonment.",
+    "description": "Attempted to conceal illegal rhino horn activity and falsified records during an enforcement investigation.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Operation Crash",
+    "source_ids": [
+      "SRC-000006"
+    ]
+  },
+  {
+    "case_id": "CASE-000010",
+    "entity_ids": [
+      "IWT-P-000008"
+    ],
+    "date": "2015-03-25",
+    "year": "2015",
+    "jurisdiction": "Canada / United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of smuggling protected wildlife products from the United States to Canada.",
+    "outcome": "30 months' imprisonment.",
+    "description": "Smuggled rhino horns, elephant ivory and coral across the U.S.-Canada border.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "network_or_case_name": "Bao Antiques",
+    "source_ids": [
+      "SRC-000007"
+    ]
+  },
+  {
+    "case_id": "CASE-000011",
+    "entity_ids": [
+      "IWT-B-000003"
+    ],
+    "date": "2015-03-25",
+    "year": "2015",
+    "jurisdiction": "Richmond, British Columbia, Canada",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Named as the business owned by convicted wildlife smuggler Xiao Ju Guan.",
+    "outcome": "No separate corporate conviction stated in the cited source.",
+    "description": "Business connected to the owner's wildlife smuggling conduct.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "network_or_case_name": "Xiao Ju Guan case",
+    "source_ids": [
+      "SRC-000007"
+    ]
+  },
+  {
+    "case_id": "CASE-000012",
+    "entity_ids": [
+      "IWT-P-000009"
+    ],
+    "date": "2015-05-20",
+    "year": "2015",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in a wildlife smuggling conspiracy.",
+    "outcome": "36 months' imprisonment.",
+    "description": "Bought, sold and smuggled protected wildlife products through an estate-buying business.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "network_or_case_name": "Elite Estate Buyers Inc.",
+    "source_ids": [
+      "SRC-000008"
+    ]
+  },
+  {
+    "case_id": "CASE-000013",
+    "entity_ids": [
+      "IWT-B-000004"
+    ],
+    "date": "2015-05-20",
+    "year": "2015",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Corporate defendant convicted in a wildlife smuggling conspiracy.",
+    "outcome": "$1.5 million fine and five-year ban from wildlife trade reported.",
+    "description": "Company used in illegal wildlife buying, selling and smuggling.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "network_or_case_name": "Christopher Hayes case",
+    "source_ids": [
+      "SRC-000008"
+    ]
+  },
+  {
+    "case_id": "CASE-000014",
+    "entity_ids": [
+      "IWT-P-000010"
+    ],
+    "date": "2015-05-14",
+    "year": "2015",
+    "jurisdiction": "United States / China",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Sentenced for participation in a rhino horn and ivory smuggling conspiracy.",
+    "outcome": "25 months' imprisonment.",
+    "description": "Helped source, purchase and move protected wildlife products for an international trafficking network.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "network_or_case_name": "Operation Crash / Zhifei Li network",
+    "source_ids": [
+      "SRC-000009"
+    ]
+  },
+  {
+    "case_id": "CASE-000015",
+    "entity_ids": [
+      "IWT-P-000011"
+    ],
+    "date": "2015-11-13",
+    "year": "2015",
+    "jurisdiction": "Canada / United States / China",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of smuggling carved rhinoceros horn objects from the United States toward China.",
+    "outcome": "Two years' imprisonment.",
+    "description": "Smuggled 16 rhino horn libation cups valued at more than $1 million.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Operation Crash",
+    "source_ids": [
+      "SRC-000010"
+    ]
+  },
+  {
+    "case_id": "CASE-000016",
+    "entity_ids": [
+      "IWT-P-000012"
+    ],
+    "date": "2016-05-09",
+    "year": "2016",
+    "jurisdiction": "United States / China",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in a long-running illegal ivory and rhino horn trade case.",
+    "outcome": "$500,000 fine reported; criminal sentence imposed.",
+    "description": "Conduct involved hundreds of wildlife-item sales and unlawful exports.",
+    "species_or_commodities": [
+      "Elephant ivory",
+      "rhinoceros horn"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000011"
+    ]
+  },
+  {
+    "case_id": "CASE-000017",
+    "entity_ids": [
+      "IWT-P-000013"
+    ],
+    "date": "2016-06-22",
+    "year": "2016",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of conspiracy to smuggle wildlife products through the auction trade.",
+    "outcome": "One year and one day in prison and $10,000 fine.",
+    "description": "Conspired to smuggle protected wildlife products valued at at least $1 million.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "network_or_case_name": "I.M. Chait Gallery",
+    "source_ids": [
+      "SRC-000012"
+    ]
+  },
+  {
+    "case_id": "CASE-000018",
+    "entity_ids": [
+      "IWT-B-000005"
+    ],
+    "date": "2016-06-22",
+    "year": "2016",
+    "jurisdiction": "Beverly Hills, United States",
+    "status": "Connected Entity",
+    "status_detail": "Named as the auction house where Joseph Chait worked.",
+    "outcome": "No separate conviction of the gallery stated in the cited source.",
+    "description": "Connected to wildlife objects handled in the employee's convicted smuggling conspiracy.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "coral"
+    ],
+    "network_or_case_name": "Joseph Chait case",
+    "source_ids": [
+      "SRC-000012"
+    ]
+  },
+  {
+    "case_id": "CASE-000019",
+    "entity_ids": [
+      "IWT-P-000014"
+    ],
+    "date": "2017-02-22",
+    "year": "2017",
+    "jurisdiction": "United States",
+    "status": "Charged / Indicted",
+    "status_detail": "Indicted for an alleged conspiracy to smuggle rhinoceros horns.",
+    "outcome": "Case status in this row reflects the 2017 indictment source.",
+    "description": "Prosecutors alleged a conspiracy involving 15 rhino horns valued at approximately $2.4 million.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "I.M. Chait Gallery",
+    "source_ids": [
+      "SRC-000013"
+    ]
+  },
+  {
+    "case_id": "CASE-000020",
+    "entity_ids": [
+      "IWT-P-000015"
+    ],
+    "date": "2017-09-18",
+    "year": "2017",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of trafficking black rhinoceros horns.",
+    "outcome": "Two years' imprisonment.",
+    "description": "Bought and sold protected rhino horns through an Asian art business.",
+    "species_or_commodities": [
+      "Black rhinoceros horn"
+    ],
+    "network_or_case_name": "Operation Crash",
+    "source_ids": [
+      "SRC-000014"
+    ]
+  },
+  {
+    "case_id": "CASE-000021",
+    "entity_ids": [
+      "IWT-P-000016"
+    ],
+    "date": "2017-11-14",
+    "year": "2017",
+    "jurisdiction": "Ireland / United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted for facilitating trafficking of a rhinoceros-horn libation cup.",
+    "outcome": "18 months' imprisonment.",
+    "description": "Facilitated transportation and concealment of a carved rhino horn object.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Rathkeale Rovers",
+    "source_ids": [
+      "SRC-000015"
+    ]
+  },
+  {
+    "case_id": "CASE-000022",
+    "entity_ids": [
+      "IWT-N-000001"
+    ],
+    "date": "2017-11-14",
+    "year": "2017",
+    "jurisdiction": "Ireland / transnational",
+    "status": "Under Investigation / Alleged",
+    "status_detail": "Named by U.S. prosecutors as a transnational organized crime syndicate associated with rhino-horn trafficking.",
+    "outcome": "",
+    "description": "Prosecutors linked the network to trafficking endangered rhino products worldwide.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Michael Hegarty case",
+    "source_ids": [
+      "SRC-000015"
+    ]
+  },
+  {
+    "case_id": "CASE-000023",
+    "entity_ids": [
+      "IWT-P-000017"
+    ],
+    "date": "2013-11-13",
+    "year": "2013",
+    "jurisdiction": "Laos",
+    "status": "Wanted / Reward",
+    "status_detail": "Identified by the U.S. State Department as the believed leader of the Xaysavang Network.",
+    "outcome": "U.S. reward of up to $1 million offered for information leading to dismantling the network.",
+    "description": "Alleged leadership of a transnational network facilitating large-scale wildlife trafficking.",
+    "species_or_commodities": [
+      "Elephants",
+      "rhinoceroses",
+      "pangolins",
+      "other wildlife"
+    ],
+    "network_or_case_name": "Xaysavang Network",
+    "source_ids": [
+      "SRC-000016"
+    ]
+  },
+  {
+    "case_id": "CASE-000024",
+    "entity_ids": [
+      "IWT-N-000002"
+    ],
+    "date": "2013-11-13",
+    "year": "2013",
+    "jurisdiction": "Laos / transnational",
+    "status": "Wanted / Reward",
+    "status_detail": "Designated by the U.S. State Department as an international wildlife trafficking syndicate.",
+    "outcome": "U.S. reward offered for information leading to dismantling the network.",
+    "description": "Reported to facilitate killing and trafficking of protected species across borders.",
+    "species_or_commodities": [
+      "Elephants",
+      "rhinoceroses",
+      "pangolins",
+      "other wildlife"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000016"
+    ]
+  },
+  {
+    "case_id": "CASE-000025",
+    "entity_ids": [
+      "IWT-B-000006"
+    ],
+    "date": "2014-02-01",
+    "year": "2014",
+    "jurisdiction": "Laos",
+    "status": "Connected Entity",
+    "status_detail": "Named by EIA reporting as the import-export company from which the Xaysavang Network took its name.",
+    "outcome": "",
+    "description": "Company consignments and commercial activity were described in reporting on the network.",
+    "species_or_commodities": [
+      "Pangolins",
+      "primates",
+      "reptiles",
+      "rhinoceroses",
+      "elephants",
+      "lions",
+      "tigers"
+    ],
+    "network_or_case_name": "Xaysavang Network",
+    "source_ids": [
+      "SRC-000017"
+    ]
+  },
+  {
+    "case_id": "CASE-000026",
+    "entity_ids": [
+      "IWT-P-000018"
+    ],
+    "date": "2014-02-01",
+    "year": "2014",
+    "jurisdiction": "Thailand",
+    "status": "Charges Withdrawn / Dismissed",
+    "status_detail": "EIA reported that he was arrested in 2011 with Chumlong Lemtongthai; charges were withdrawn after Lemtongthai's guilty plea, and he was later wanted in connection with the network.",
+    "outcome": "Charges in the South African case were reported withdrawn.",
+    "description": "Reported role in the pseudo-hunting and rhino-horn trafficking network.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Xaysavang Network",
+    "source_ids": [
+      "SRC-000017"
+    ]
+  },
+  {
+    "case_id": "CASE-000027",
+    "entity_ids": [
+      "IWT-P-000019"
+    ],
+    "date": "2014-02-01",
+    "year": "2014",
+    "jurisdiction": "South Africa",
+    "status": "Charges Withdrawn / Dismissed",
+    "status_detail": "EIA reported that initial charges were withdrawn and that he was later re-arrested and charged with fraud and illegal rhino-hunting counts.",
+    "outcome": "Status reflects charges reported by EIA, not a final outcome.",
+    "description": "Alleged misuse of hunting permits within a rhino-horn trafficking scheme.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "white rhinoceros"
+    ],
+    "network_or_case_name": "Xaysavang-linked pseudo-hunting network",
+    "source_ids": [
+      "SRC-000017"
+    ]
+  },
+  {
+    "case_id": "CASE-000028",
+    "entity_ids": [
+      "IWT-P-000020"
+    ],
+    "date": "2014-02-01",
+    "year": "2014",
+    "jurisdiction": "South Africa",
+    "status": "Charges Withdrawn / Dismissed",
+    "status_detail": "EIA reported that charges against him in the original case were withdrawn after Chumlong Lemtongthai's guilty plea.",
+    "outcome": "Charges reported withdrawn.",
+    "description": "Named in reporting on the Xaysavang-linked pseudo-hunting investigation.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Xaysavang-linked pseudo-hunting network",
+    "source_ids": [
+      "SRC-000017"
+    ]
+  },
+  {
+    "case_id": "CASE-000029",
+    "entity_ids": [
+      "IWT-P-000021"
+    ],
+    "date": "2018-03-20",
+    "year": "2018",
+    "jurisdiction": "Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted following a 2017 arrest in a major wildlife trafficking investigation.",
+    "outcome": "13 months' imprisonment reported.",
+    "description": "Authorities and conservation groups linked him to trafficking protected wildlife from Africa into Vietnam.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "tigers",
+      "other wildlife"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000018"
+    ]
+  },
+  {
+    "case_id": "CASE-000030",
+    "entity_ids": [
+      "IWT-P-000022"
+    ],
+    "date": "2022-09-28",
+    "year": "2022",
+    "jurisdiction": "Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Arrested in 2019 and convicted in 2020 for illegal ivory trade.",
+    "outcome": "11 years' imprisonment.",
+    "description": "Wildlife Justice Commission described him as one of Vietnam's biggest wildlife traffickers.",
+    "species_or_commodities": [
+      "Elephant ivory"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000019"
+    ]
+  },
+  {
+    "case_id": "CASE-000031",
+    "entity_ids": [
+      "IWT-P-000023"
+    ],
+    "date": "2023-02-21",
+    "year": "2023",
+    "jurisdiction": "Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in Da Nang for large-scale trafficking of African wildlife products.",
+    "outcome": "13 years' imprisonment.",
+    "description": "Case involved a 2021 shipment reported at more than 10 tonnes and trafficking from Africa to Vietnam.",
+    "species_or_commodities": [
+      "Elephant ivory",
+      "pangolin scales",
+      "lion bones"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000020"
+    ]
+  },
+  {
+    "case_id": "CASE-000032",
+    "entity_ids": [
+      "IWT-P-000024"
+    ],
+    "date": "2025-05-16",
+    "year": "2025",
+    "jurisdiction": "Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted for illegally trading rhinoceros horn.",
+    "outcome": "Seven years' imprisonment.",
+    "description": "ENV described him as the leader of a transnational wildlife trafficking network from Nghe An Province.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000021"
+    ]
+  },
+  {
+    "case_id": "CASE-000033",
+    "entity_ids": [
+      "IWT-P-000025"
+    ],
+    "date": "2025-06-24",
+    "year": "2025",
+    "jurisdiction": "Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted for involvement in trafficking 2.8 tonnes of pangolin scales.",
+    "outcome": "Seven years' imprisonment.",
+    "description": "ENV described him as the ringleader of a large illegal pangolin-scale trafficking case.",
+    "species_or_commodities": [
+      "Pangolin scales"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000022"
+    ]
+  },
+  {
+    "case_id": "CASE-000034",
+    "entity_ids": [
+      "IWT-P-000026"
+    ],
+    "date": "2026-04-24",
+    "year": "2026",
+    "jurisdiction": "Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted after being arrested with approximately 900 kg of African pangolin scales.",
+    "outcome": "Eight years' imprisonment plus fines reported.",
+    "description": "Large-scale possession and trafficking of pangolin scales.",
+    "species_or_commodities": [
+      "African pangolin scales"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000023"
+    ]
+  },
+  {
+    "case_id": "CASE-000035",
+    "entity_ids": [
+      "IWT-P-000027"
+    ],
+    "date": "2026-04-24",
+    "year": "2026",
+    "jurisdiction": "Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in the same large pangolin-scale trafficking case as Nguyen The Du.",
+    "outcome": "Eight years' imprisonment plus fines reported.",
+    "description": "Large-scale possession and trafficking of pangolin scales.",
+    "species_or_commodities": [
+      "African pangolin scales"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000023"
+    ]
+  },
+  {
+    "case_id": "CASE-000036",
+    "entity_ids": [
+      "IWT-P-000028"
+    ],
+    "date": "2023-09-19",
+    "year": "2023",
+    "jurisdiction": "Malaysia / United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty and was sentenced for conspiracy to traffic rhinoceros horns.",
+    "outcome": "18 months' imprisonment.",
+    "description": "Plea involved trafficking more than 70 kg of rhino horn; prosecutors described broader trafficking conduct involving hundreds of kilograms.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000024"
+    ]
+  },
+  {
+    "case_id": "CASE-000037",
+    "entity_ids": [
+      "IWT-P-000029"
+    ],
+    "date": "2023-02-15",
+    "year": "2023",
+    "jurisdiction": "Thailand / Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "National Geographic reported that he was sentenced to five years in relation to an attempt to smuggle 14 rhino horns.",
+    "outcome": "Five years' imprisonment reported.",
+    "description": "Long-running investigations linked him to a transnational wildlife trafficking network.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Hydra network",
+    "source_ids": [
+      "SRC-000025"
+    ]
+  },
+  {
+    "case_id": "CASE-000038",
+    "entity_ids": [
+      "IWT-P-000030"
+    ],
+    "date": "2019-06-05",
+    "year": "2019",
+    "jurisdiction": "Czech Republic",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in a Czech tiger-trade case.",
+    "outcome": "Two-year suspended sentence and fine reported.",
+    "description": "FOUR PAWS reported his contribution to illegal trade in tigers and processing of tiger body parts.",
+    "species_or_commodities": [
+      "Tigers",
+      "tiger body parts"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000026"
+    ]
+  },
+  {
+    "case_id": "CASE-000039",
+    "entity_ids": [
+      "IWT-P-000031"
+    ],
+    "date": "2019-02-19",
+    "year": "2019",
+    "jurisdiction": "Tanzania / China",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in Tanzania for leading an ivory-smuggling operation.",
+    "outcome": "15 years' imprisonment.",
+    "description": "Court found her guilty in a case involving tusks from more than 350 elephants, nearly two tonnes of ivory.",
+    "species_or_commodities": [
+      "Elephant ivory"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000027"
+    ]
+  },
+  {
+    "case_id": "CASE-000040",
+    "entity_ids": [
+      "IWT-P-000032"
+    ],
+    "date": "2019-02-19",
+    "year": "2019",
+    "jurisdiction": "Tanzania",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted with Yang Fenglan in a major ivory smuggling case.",
+    "outcome": "15 years' imprisonment.",
+    "description": "Participated in the ivory-trafficking conspiracy prosecuted in Tanzania.",
+    "species_or_commodities": [
+      "Elephant ivory"
+    ],
+    "network_or_case_name": "Yang Fenglan case",
+    "source_ids": [
+      "SRC-000027"
+    ]
+  },
+  {
+    "case_id": "CASE-000041",
+    "entity_ids": [
+      "IWT-P-000033"
+    ],
+    "date": "2019-02-19",
+    "year": "2019",
+    "jurisdiction": "Tanzania",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted with Yang Fenglan in a major ivory smuggling case.",
+    "outcome": "15 years' imprisonment.",
+    "description": "Participated in the ivory-trafficking conspiracy prosecuted in Tanzania.",
+    "species_or_commodities": [
+      "Elephant ivory"
+    ],
+    "network_or_case_name": "Yang Fenglan case",
+    "source_ids": [
+      "SRC-000027"
+    ]
+  },
+  {
+    "case_id": "CASE-000042",
+    "entity_ids": [
+      "IWT-P-000034"
+    ],
+    "date": "2022-08-18",
+    "year": "2022",
+    "jurisdiction": "Uganda / United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted for participation in a major East African rhino-horn and ivory trafficking enterprise.",
+    "outcome": "63 months' imprisonment.",
+    "description": "Enterprise trafficked approximately 190 kg of rhino horn and at least 10 tonnes of ivory, representing dozens of rhinos and more than 100 elephants.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "network_or_case_name": "Kromah wildlife trafficking enterprise",
+    "source_ids": [
+      "SRC-000028"
+    ]
+  },
+  {
+    "case_id": "CASE-000043",
+    "entity_ids": [
+      "IWT-P-000035"
+    ],
+    "date": "2022-12-15",
+    "year": "2022",
+    "jurisdiction": "Uganda / West Africa / United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty and was sentenced in the East African rhino-horn and ivory trafficking enterprise.",
+    "outcome": "57 months' imprisonment.",
+    "description": "Participated in large-scale trafficking of rhino horn and elephant ivory toward international markets.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "network_or_case_name": "Kromah wildlife trafficking enterprise",
+    "source_ids": [
+      "SRC-000029"
+    ]
+  },
+  {
+    "case_id": "CASE-000044",
+    "entity_ids": [
+      "IWT-P-000036"
+    ],
+    "date": "2022-06-16",
+    "year": "2022",
+    "jurisdiction": "Kenya / Uganda / United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty in the East African rhino-horn and ivory trafficking enterprise after extradition to the United States.",
+    "outcome": "Later sentencing occurred; this row records the guilty plea stage.",
+    "description": "Participated in trafficking approximately 190 kg of rhino horn and at least 10 tonnes of ivory.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "network_or_case_name": "Kromah wildlife trafficking enterprise",
+    "source_ids": [
+      "SRC-000030"
+    ]
+  },
+  {
+    "case_id": "CASE-000045",
+    "entity_ids": [
+      "IWT-P-000037"
+    ],
+    "date": "2023-05-11",
+    "year": "2023",
+    "jurisdiction": "Kenya / United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in the East African rhino-horn and ivory trafficking enterprise.",
+    "outcome": "48 months' imprisonment.",
+    "description": "Participated in large-scale international trafficking of rhino horn and elephant ivory.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "network_or_case_name": "Kromah wildlife trafficking enterprise",
+    "source_ids": [
+      "SRC-000031"
+    ]
+  },
+  {
+    "case_id": "CASE-000046",
+    "entity_ids": [
+      "IWT-P-000038"
+    ],
+    "date": "2022-08-18",
+    "year": "2022",
+    "jurisdiction": "Kenya",
+    "status": "Charged / Indicted",
+    "status_detail": "Named as a defendant in the East African rhino-horn and ivory trafficking enterprise; source described him as in Kenyan custody at that stage.",
+    "outcome": "No final outcome recorded in the cited source row.",
+    "description": "Alleged participation in the same transnational trafficking enterprise.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory"
+    ],
+    "network_or_case_name": "Kromah wildlife trafficking enterprise",
+    "source_ids": [
+      "SRC-000028"
+    ]
+  },
+  {
+    "case_id": "CASE-000047",
+    "entity_ids": [
+      "IWT-P-000039"
+    ],
+    "date": "2026-04-23",
+    "year": "2026",
+    "jurisdiction": "Nigeria",
+    "status": "Arrested / Detained",
+    "status_detail": "Arrested after approximately five years on the run in relation to a major wildlife trafficking case.",
+    "outcome": "Arrest reported; final judicial outcome not stated in source.",
+    "description": "Wildlife Justice Commission described him as a suspected high-level trafficker wanted in connection with a 2021 Lagos case.",
+    "species_or_commodities": [
+      "Pangolin scales",
+      "elephant ivory",
+      "wildlife products"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000032"
+    ]
+  },
+  {
+    "case_id": "CASE-000048",
+    "entity_ids": [
+      "IWT-P-000040"
+    ],
+    "date": "2023-09-30",
+    "year": "2023",
+    "jurisdiction": "Nigeria",
+    "status": "Arrested / Detained",
+    "status_detail": "Arrested in relation to a January 2021 illegal wildlife shipment from Nigeria toward Vietnam.",
+    "outcome": "Arrest reported; final case outcome not stated in source.",
+    "description": "Linked by investigators to a major Apapa Port wildlife shipment bound for Haiphong.",
+    "species_or_commodities": [
+      "Pangolin scales",
+      "ivory",
+      "wildlife products"
+    ],
+    "network_or_case_name": "January 2021 Nigeria-Vietnam seizure case",
+    "source_ids": [
+      "SRC-000033"
+    ]
+  },
+  {
+    "case_id": "CASE-000049",
+    "entity_ids": [
+      "IWT-P-000041"
+    ],
+    "date": "2023-07-21",
+    "year": "2023",
+    "jurisdiction": "Nigeria / Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted and sentenced in Nigeria for wildlife trafficking offenses.",
+    "outcome": "Wildlife Justice Commission reported prison sentences or fine alternatives in the case.",
+    "description": "Group was linked to possession, dealing, storage, smuggling and trade in protected wildlife products, with supply links from Southern Africa toward Vietnam.",
+    "species_or_commodities": [
+      "Pangolin scales",
+      "elephant ivory",
+      "rhino horn",
+      "lion bones"
+    ],
+    "network_or_case_name": "Nigeria-based transnational trafficking group",
+    "source_ids": [
+      "SRC-000034"
+    ]
+  },
+  {
+    "case_id": "CASE-000050",
+    "entity_ids": [
+      "IWT-P-000042"
+    ],
+    "date": "2023-07-21",
+    "year": "2023",
+    "jurisdiction": "Nigeria / Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted and sentenced in Nigeria for wildlife trafficking offenses.",
+    "outcome": "Wildlife Justice Commission reported prison sentences or fine alternatives in the case.",
+    "description": "Group was linked to possession, dealing, storage, smuggling and trade in protected wildlife products, with supply links from Southern Africa toward Vietnam.",
+    "species_or_commodities": [
+      "Pangolin scales",
+      "elephant ivory",
+      "rhino horn",
+      "lion bones"
+    ],
+    "network_or_case_name": "Nigeria-based transnational trafficking group",
+    "source_ids": [
+      "SRC-000034"
+    ]
+  },
+  {
+    "case_id": "CASE-000051",
+    "entity_ids": [
+      "IWT-P-000043"
+    ],
+    "date": "2023-07-21",
+    "year": "2023",
+    "jurisdiction": "Nigeria / Vietnam",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted and sentenced in Nigeria for wildlife trafficking offenses.",
+    "outcome": "Wildlife Justice Commission reported prison sentences or fine alternatives in the case.",
+    "description": "Group was linked to possession, dealing, storage, smuggling and trade in protected wildlife products, with supply links from Southern Africa toward Vietnam.",
+    "species_or_commodities": [
+      "Pangolin scales",
+      "elephant ivory",
+      "rhino horn",
+      "lion bones"
+    ],
+    "network_or_case_name": "Nigeria-based transnational trafficking group",
+    "source_ids": [
+      "SRC-000034"
+    ]
+  },
+  {
+    "case_id": "CASE-000052",
+    "entity_ids": [
+      "IWT-P-000044"
+    ],
+    "date": "2023-07-21",
+    "year": "2023",
+    "jurisdiction": "Nigeria / Guinea",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted and sentenced in Nigeria for wildlife trafficking offenses.",
+    "outcome": "Wildlife Justice Commission reported prison sentences or fine alternatives in the case.",
+    "description": "Group was linked to possession, dealing, storage, smuggling and trade in protected wildlife products, with supply links from Southern Africa toward Vietnam.",
+    "species_or_commodities": [
+      "Pangolin scales",
+      "elephant ivory",
+      "rhino horn",
+      "lion bones"
+    ],
+    "network_or_case_name": "Nigeria-based transnational trafficking group",
+    "source_ids": [
+      "SRC-000034"
+    ]
+  },
+  {
+    "case_id": "CASE-000053",
+    "entity_ids": [
+      "IWT-P-000045"
+    ],
+    "date": "2021-09-28",
+    "year": "2021",
+    "jurisdiction": "Malawi / China",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in Malawi on wildlife trafficking and money-laundering offenses.",
+    "outcome": "14 years for rhino-horn offenses with a concurrent six-year money-laundering term reported.",
+    "description": "EIA described him as a notorious kingpin in a syndicate involved in protected wildlife trafficking.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "other wildlife products"
+    ],
+    "network_or_case_name": "Lin-Zhang syndicate",
+    "source_ids": [
+      "SRC-000035"
+    ]
+  },
+  {
+    "case_id": "CASE-000054",
+    "entity_ids": [
+      "IWT-N-000003"
+    ],
+    "date": "2021-09-28",
+    "year": "2021",
+    "jurisdiction": "Malawi / transnational",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Multiple members of the syndicate were convicted in Malawi wildlife-crime prosecutions.",
+    "outcome": "Members received substantial combined prison sentences.",
+    "description": "Network associated with trafficking multiple high-value protected wildlife commodities.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "elephant ivory",
+      "hippo teeth",
+      "pangolin scales"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000035"
+    ]
+  },
+  {
+    "case_id": "CASE-000055",
+    "entity_ids": [
+      "IWT-P-000046"
+    ],
+    "date": "2024-09-19",
+    "year": "2024",
+    "jurisdiction": "Mozambique",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of illegal wildlife trade, criminal association and money laundering.",
+    "outcome": "27 years' imprisonment reported.",
+    "description": "Wildlife Justice Commission described him as a prolific rhino-poaching boss targeting Kruger National Park.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000036"
+    ]
+  },
+  {
+    "case_id": "CASE-000056",
+    "entity_ids": [
+      "IWT-P-000047"
+    ],
+    "date": "2024-09-19",
+    "year": "2024",
+    "jurisdiction": "Mozambique",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted with Simon Valoi in a major organized wildlife crime case.",
+    "outcome": "24 years' imprisonment reported.",
+    "description": "Identified as Valoi's right-hand man in a rhino poaching and trafficking group.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Simon Valoi network",
+    "source_ids": [
+      "SRC-000036"
+    ]
+  },
+  {
+    "case_id": "CASE-000057",
+    "entity_ids": [
+      "IWT-P-000048"
+    ],
+    "date": "2024-09-19",
+    "year": "2024",
+    "jurisdiction": "Mozambique",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of wildlife trafficking, money laundering and criminal association.",
+    "outcome": "30 years' imprisonment reported.",
+    "description": "Identified as a major supplier and facilitator in rhino-horn trafficking.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000036"
+    ]
+  },
+  {
+    "case_id": "CASE-000058",
+    "entity_ids": [
+      "IWT-P-000049"
+    ],
+    "date": "2025-01-18",
+    "year": "2025",
+    "jurisdiction": "South Africa / Tanzania",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty in South Africa to wildlife trafficking and related offenses.",
+    "outcome": "18 years' imprisonment reported.",
+    "description": "Charged in a case involving conspiracy to traffic rhino horn and laundering of alleged rhino-horn proceeds.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000037"
+    ]
+  },
+  {
+    "case_id": "CASE-000059",
+    "entity_ids": [
+      "IWT-P-000050"
+    ],
+    "date": "2025-01-18",
+    "year": "2025",
+    "jurisdiction": "South Africa",
+    "status": "Under Investigation / Alleged",
+    "status_detail": "Identified in reporting as the lead suspect in the wider rhino-poaching syndicate associated with the Kipampa case.",
+    "outcome": "Killed in June 2021; no conviction recorded in the cited source.",
+    "description": "Named as a key investigative subject in a major South African rhino-poaching network.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Francis Kipampa / Mpumalanga rhino network",
+    "source_ids": [
+      "SRC-000037"
+    ]
+  },
+  {
+    "case_id": "CASE-000060",
+    "entity_ids": [
+      "IWT-P-000051"
+    ],
+    "date": "2026-06-18",
+    "year": "2026",
+    "jurisdiction": "South Africa",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Sentenced after a long-running South African rhino case involving extensive wildlife and organized-crime charges.",
+    "outcome": "R2 million fine or four years' imprisonment reported.",
+    "description": "Case included illegal hunting, dehorning, racketeering and money-laundering allegations and convictions after a prolonged prosecution.",
+    "species_or_commodities": [
+      "Rhinoceros",
+      "rhinoceros horn"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000038"
+    ]
+  },
+  {
+    "case_id": "CASE-000061",
+    "entity_ids": [
+      "IWT-P-000052"
+    ],
+    "date": "2026-06-18",
+    "year": "2026",
+    "jurisdiction": "South Africa",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Sentenced in the same long-running South African rhino case as Dawie Groenewald.",
+    "outcome": "R100,000 fine or three years' imprisonment reported.",
+    "description": "Convicted in a major case involving illegal rhino hunting and related organized-crime conduct.",
+    "species_or_commodities": [
+      "Rhinoceros",
+      "rhinoceros horn"
+    ],
+    "network_or_case_name": "Dawie Groenewald case",
+    "source_ids": [
+      "SRC-000038"
+    ]
+  },
+  {
+    "case_id": "CASE-000062",
+    "entity_ids": [
+      "IWT-P-000053"
+    ],
+    "date": "2026-03-24",
+    "year": "2026",
+    "jurisdiction": "South Africa",
+    "status": "Charged / Indicted",
+    "status_detail": "Facing 55 charges including racketeering, fraud, theft and rhino-horn trafficking; denies the allegations.",
+    "outcome": "Proceedings pending as of cited March 2026 reporting.",
+    "description": "Prosecutors allege falsified domestic-sale permits were used to channel 964 horns toward buyers in Vietnam and China.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000039"
+    ]
+  },
+  {
+    "case_id": "CASE-000063",
+    "entity_ids": [
+      "IWT-P-000054"
+    ],
+    "date": "2026-06-10",
+    "year": "2026",
+    "jurisdiction": "South Africa",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of smuggling a Temminck's pangolin.",
+    "outcome": "Eight years' imprisonment reported.",
+    "description": "Case involved delivery and trafficking of a live protected pangolin.",
+    "species_or_commodities": [
+      "Temminck's pangolin"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000040"
+    ]
+  },
+  {
+    "case_id": "CASE-000064",
+    "entity_ids": [
+      "IWT-P-000055"
+    ],
+    "date": "2025-09-16",
+    "year": "2025",
+    "jurisdiction": "Kenya",
+    "status": "Charged / Indicted",
+    "status_detail": "Charged in Mombasa with illegal trade in two rhino horns and pleaded not guilty.",
+    "outcome": "Case pending at cited date. An earlier 2016 ivory conviction had been overturned on appeal in 2018.",
+    "description": "2025 case concerns alleged illegal trade in two rhino horns valued at KSh8.2 million.",
+    "species_or_commodities": [
+      "Rhinoceros horn",
+      "historical elephant ivory case"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000041"
+    ]
+  },
+  {
+    "case_id": "CASE-000065",
+    "entity_ids": [
+      "IWT-P-000056"
+    ],
+    "date": "2025-09-16",
+    "year": "2025",
+    "jurisdiction": "Kenya",
+    "status": "Charged / Indicted",
+    "status_detail": "Charged with Feisal Mohamed Ali over alleged illegal trade in two rhino horns; pleaded not guilty.",
+    "outcome": "Case pending at cited date.",
+    "description": "Co-accused in the Mombasa rhino-horn trafficking case.",
+    "species_or_commodities": [
+      "Rhinoceros horn"
+    ],
+    "network_or_case_name": "Feisal Mohamed Ali case",
+    "source_ids": [
+      "SRC-000041"
+    ]
+  },
+  {
+    "case_id": "CASE-000066",
+    "entity_ids": [
+      "IWT-P-000057"
+    ],
+    "date": "2022-11-01",
+    "year": "2022",
+    "jurisdiction": "Democratic Republic of the Congo / United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted after traveling to the United States to negotiate illegal wildlife transactions.",
+    "outcome": "20 months' imprisonment.",
+    "description": "Trafficked ivory and rhino horn and negotiated over pangolin scales.",
+    "species_or_commodities": [
+      "Elephant ivory",
+      "white rhinoceros horn",
+      "pangolin scales"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000042"
+    ]
+  },
+  {
+    "case_id": "CASE-000067",
+    "entity_ids": [
+      "IWT-P-000058"
+    ],
+    "date": "2022-11-01",
+    "year": "2022",
+    "jurisdiction": "Democratic Republic of the Congo / United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in the same DRC-to-U.S. wildlife trafficking case.",
+    "outcome": "14 months' imprisonment.",
+    "description": "Trafficked ivory and rhino horn and negotiated over pangolin scales.",
+    "species_or_commodities": [
+      "Elephant ivory",
+      "white rhinoceros horn",
+      "pangolin scales"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000042"
+    ]
+  },
+  {
+    "case_id": "CASE-000068",
+    "entity_ids": [
+      "IWT-P-000059"
+    ],
+    "date": "2021-10-01",
+    "year": "2021",
+    "jurisdiction": "United States / Mexico",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in a trafficking ring moving protected animals from Mexico to the United States.",
+    "outcome": "34 months' imprisonment.",
+    "description": "Between 2015 and 2020 served as a middleman in trafficking hundreds of live animals.",
+    "species_or_commodities": [
+      "Reptiles",
+      "amphibians",
+      "birds"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000043"
+    ]
+  },
+  {
+    "case_id": "CASE-000069",
+    "entity_ids": [
+      "IWT-P-000060"
+    ],
+    "date": "2022-04-21",
+    "year": "2022",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of conspiring to illegally harvest, sell and export protected Florida turtles.",
+    "outcome": "Seven months' imprisonment and $100,000 fine.",
+    "description": "Scheme harvested wild turtles for sales and exports to China and Japan.",
+    "species_or_commodities": [
+      "Florida turtles"
+    ],
+    "network_or_case_name": "Strictly Reptiles, Inc.",
+    "source_ids": [
+      "SRC-000044"
+    ]
+  },
+  {
+    "case_id": "CASE-000070",
+    "entity_ids": [
+      "IWT-B-000007"
+    ],
+    "date": "2022-04-21",
+    "year": "2022",
+    "jurisdiction": "Florida, United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Corporate defendant convicted in an illegal turtle harvesting and trafficking scheme.",
+    "outcome": "Five years' probation and $150,000 fine.",
+    "description": "Company participated in purchasing and selling protected turtles destined in part for foreign markets.",
+    "species_or_commodities": [
+      "Florida turtles"
+    ],
+    "network_or_case_name": "Michael Van Nostrand case",
+    "source_ids": [
+      "SRC-000044"
+    ]
+  },
+  {
+    "case_id": "CASE-000071",
+    "entity_ids": [
+      "IWT-P-000061"
+    ],
+    "date": "2022-09-01",
+    "year": "2022",
+    "jurisdiction": "United States / Mexico",
+    "status": "Charged / Indicted",
+    "status_detail": "Charged in a case involving an attempted illegal export of more than 160 live animals from the United States to Mexico.",
+    "outcome": "Charge-stage record in the cited source.",
+    "description": "Prosecutors alleged Lacey Act and export violations involving a large live-animal shipment.",
+    "species_or_commodities": [
+      "Reptiles and other live wildlife"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000045"
+    ]
+  },
+  {
+    "case_id": "CASE-000072",
+    "entity_ids": [
+      "IWT-P-000062"
+    ],
+    "date": "2022-09-01",
+    "year": "2022",
+    "jurisdiction": "United States / Mexico",
+    "status": "Charged / Indicted",
+    "status_detail": "Charged in a case involving an attempted illegal export of more than 160 live animals from the United States to Mexico.",
+    "outcome": "Charge-stage record in the cited source.",
+    "description": "Prosecutors alleged Lacey Act and export violations involving a large live-animal shipment.",
+    "species_or_commodities": [
+      "Reptiles and other live wildlife"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000045"
+    ]
+  },
+  {
+    "case_id": "CASE-000073",
+    "entity_ids": [
+      "IWT-P-000063"
+    ],
+    "date": "2022-09-01",
+    "year": "2022",
+    "jurisdiction": "United States / Mexico",
+    "status": "Charged / Indicted",
+    "status_detail": "Charged in a case involving an attempted illegal export of more than 160 live animals from the United States to Mexico.",
+    "outcome": "Charge-stage record in the cited source.",
+    "description": "Prosecutors alleged Lacey Act and export violations involving a large live-animal shipment.",
+    "species_or_commodities": [
+      "Reptiles and other live wildlife"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000045"
+    ]
+  },
+  {
+    "case_id": "CASE-000074",
+    "entity_ids": [
+      "IWT-P-000064"
+    ],
+    "date": "2026-05-29",
+    "year": "2026",
+    "jurisdiction": "United States / Mexico / Hong Kong",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of trafficking at least 1,700 animals into the United States.",
+    "outcome": "65 months' imprisonment.",
+    "description": "From 2016-2022, sourced reptiles from Mexico, Hong Kong and elsewhere and sold them through social media; value exceeded $739,000.",
+    "species_or_commodities": [
+      "Reptiles"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000046"
+    ]
+  },
+  {
+    "case_id": "CASE-000075",
+    "entity_ids": [
+      "IWT-P-000065"
+    ],
+    "date": "2023-06-01",
+    "year": "2023",
+    "jurisdiction": "United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty to a misdemeanor Lacey Act offense in the broader Perez reptile trafficking scheme.",
+    "outcome": "$1,000 fine and probation reported.",
+    "description": "Sibling and co-conspirator in a scheme moving large numbers of reptiles into the United States.",
+    "species_or_commodities": [
+      "Reptiles"
+    ],
+    "network_or_case_name": "Jose Manuel Perez scheme",
+    "source_ids": [
+      "SRC-000047"
+    ]
+  },
+  {
+    "case_id": "CASE-000076",
+    "entity_ids": [
+      "IWT-P-000066"
+    ],
+    "date": "2023-05-01",
+    "year": "2023",
+    "jurisdiction": "United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty to turtle trafficking offenses.",
+    "outcome": "Sentencing status should be checked in later court records if needed.",
+    "description": "Collected protected turtles in Virginia and sold them online; downstream buyers smuggled turtles toward Hong Kong and China.",
+    "species_or_commodities": [
+      "Eastern box turtles"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000048"
+    ]
+  },
+  {
+    "case_id": "CASE-000077",
+    "entity_ids": [
+      "IWT-P-000067"
+    ],
+    "date": "2023-06-01",
+    "year": "2023",
+    "jurisdiction": "United States / Mexico",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty to smuggling protected wildlife.",
+    "outcome": "Guilty plea recorded; see later court record for final sentence.",
+    "description": "Smuggled more than 600 dried seahorses from Mexico into the United States.",
+    "species_or_commodities": [
+      "Dried seahorses"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000047"
+    ]
+  },
+  {
+    "case_id": "CASE-000078",
+    "entity_ids": [
+      "IWT-P-000068"
+    ],
+    "date": "2023-06-01",
+    "year": "2023",
+    "jurisdiction": "United States / Europe",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty to wildlife smuggling.",
+    "outcome": "Guilty plea recorded; see later court record for final sentence.",
+    "description": "Smuggled dozens of taxidermy birds from Malta, England, Germany and other locations without required declarations or permits.",
+    "species_or_commodities": [
+      "Taxidermy birds"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000047"
+    ]
+  },
+  {
+    "case_id": "CASE-000079",
+    "entity_ids": [
+      "IWT-P-000069"
+    ],
+    "date": "2024-05-28",
+    "year": "2024",
+    "jurisdiction": "United States / Germany / Hong Kong",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of conspiring to illegally export thousands of wild-caught turtles while falsely representing them as captive-bred.",
+    "outcome": "One year and one day in prison plus fine.",
+    "description": "Trafficking scheme exported turtles to Germany and Hong Kong and used false captive-bred documentation.",
+    "species_or_commodities": [
+      "Florida freshwater turtles"
+    ],
+    "network_or_case_name": "Omni Reptiles Inc.",
+    "source_ids": [
+      "SRC-000049"
+    ]
+  },
+  {
+    "case_id": "CASE-000080",
+    "entity_ids": [
+      "IWT-B-000008"
+    ],
+    "date": "2024-05-28",
+    "year": "2024",
+    "jurisdiction": "Florida, United States",
+    "status": "Connected Entity",
+    "status_detail": "Named as the business through which John Michael Kreatsoulas operated.",
+    "outcome": "No separate corporate conviction stated in cited source.",
+    "description": "Business infrastructure connected to exports falsely described as captive-bred.",
+    "species_or_commodities": [
+      "Florida freshwater turtles"
+    ],
+    "network_or_case_name": "John Michael Kreatsoulas case",
+    "source_ids": [
+      "SRC-000049"
+    ]
+  },
+  {
+    "case_id": "CASE-000081",
+    "entity_ids": [
+      "IWT-P-000070"
+    ],
+    "date": "2024-04-22",
+    "year": "2024",
+    "jurisdiction": "Colombia / United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of smuggling designer handbags made from protected wildlife skins from Colombia to the United States.",
+    "outcome": "18 months' imprisonment.",
+    "description": "Smuggled high-value bags made from CITES-protected skins between 2016 and 2019.",
+    "species_or_commodities": [
+      "Caiman",
+      "python"
+    ],
+    "network_or_case_name": "Gzuniga Ltd.",
+    "source_ids": [
+      "SRC-000050"
+    ]
+  },
+  {
+    "case_id": "CASE-000082",
+    "entity_ids": [
+      "IWT-P-000071"
+    ],
+    "date": "2024-04-22",
+    "year": "2024",
+    "jurisdiction": "Colombia / United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in the Gzuniga protected-wildlife handbag smuggling case.",
+    "outcome": "Time served, approximately 22 months, reported.",
+    "description": "Participated in smuggling protected-wildlife products into the United States.",
+    "species_or_commodities": [
+      "Caiman",
+      "python"
+    ],
+    "network_or_case_name": "Gzuniga Ltd.",
+    "source_ids": [
+      "SRC-000050"
+    ]
+  },
+  {
+    "case_id": "CASE-000083",
+    "entity_ids": [
+      "IWT-P-000072"
+    ],
+    "date": "2024-04-22",
+    "year": "2024",
+    "jurisdiction": "Colombia / United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty in the Gzuniga protected-wildlife handbag smuggling case.",
+    "outcome": "Sentencing was pending in the cited April 2024 source.",
+    "description": "Participated in smuggling designer wildlife-skin products.",
+    "species_or_commodities": [
+      "Caiman",
+      "python"
+    ],
+    "network_or_case_name": "Gzuniga Ltd.",
+    "source_ids": [
+      "SRC-000050"
+    ]
+  },
+  {
+    "case_id": "CASE-000084",
+    "entity_ids": [
+      "IWT-B-000009"
+    ],
+    "date": "2024-04-22",
+    "year": "2024",
+    "jurisdiction": "Colombia",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Corporate defendant in the protected-wildlife handbag smuggling case.",
+    "outcome": "Probation, forfeiture and three-year wildlife-trade ban reported.",
+    "description": "Company sold and moved designer products made from protected wildlife skins.",
+    "species_or_commodities": [
+      "Caiman",
+      "python"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000050"
+    ]
+  },
+  {
+    "case_id": "CASE-000085",
+    "entity_ids": [
+      "IWT-P-000073"
+    ],
+    "date": "2025-07-08",
+    "year": "2025",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of federal wildlife trafficking and money-laundering offenses.",
+    "outcome": "12 months' imprisonment reported.",
+    "description": "Scheme involved purchase/sale of protected animals, cash transactions, false paperwork and related laundering conduct.",
+    "species_or_commodities": [
+      "Cheetahs",
+      "lions",
+      "tigers",
+      "chimpanzee",
+      "other protected wildlife"
+    ],
+    "network_or_case_name": "Myrtle Beach Safari / T.I.G.E.R.S.",
+    "source_ids": [
+      "SRC-000051"
+    ]
+  },
+  {
+    "case_id": "CASE-000086",
+    "entity_ids": [
+      "IWT-P-000074"
+    ],
+    "date": "2025-07-08",
+    "year": "2025",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted in a related wildlife trafficking case involving sale of a juvenile chimpanzee.",
+    "outcome": "Four months' imprisonment plus four months' home confinement and fine reported.",
+    "description": "Sold a juvenile chimpanzee to Antle for cash and a juvenile gibbon, according to DOJ.",
+    "species_or_commodities": [
+      "Chimpanzee",
+      "gibbon"
+    ],
+    "network_or_case_name": "Franklin Drive Thru Safari / Antle case",
+    "source_ids": [
+      "SRC-000051"
+    ]
+  },
+  {
+    "case_id": "CASE-000087",
+    "entity_ids": [
+      "IWT-P-000075"
+    ],
+    "date": "2022-06-30",
+    "year": "2022",
+    "jurisdiction": "United States",
+    "status": "Charged / Indicted",
+    "status_detail": "Indicted in a federal wildlife trafficking case involving protected animals.",
+    "outcome": "Status in this row reflects the indictment source.",
+    "description": "Prosecutors alleged participation in unlawful wildlife transactions and false-record activity.",
+    "species_or_commodities": [
+      "Lemurs",
+      "cheetahs",
+      "chimpanzee",
+      "other protected wildlife"
+    ],
+    "network_or_case_name": "Myrtle Beach Safari / Antle case",
+    "source_ids": [
+      "SRC-000052"
+    ]
+  },
+  {
+    "case_id": "CASE-000088",
+    "entity_ids": [
+      "IWT-P-000076"
+    ],
+    "date": "2022-06-30",
+    "year": "2022",
+    "jurisdiction": "United States",
+    "status": "Charged / Indicted",
+    "status_detail": "Indicted in a federal wildlife trafficking case involving protected animals.",
+    "outcome": "Status in this row reflects the indictment source.",
+    "description": "Prosecutors alleged participation in unlawful wildlife transactions.",
+    "species_or_commodities": [
+      "Lemurs",
+      "cheetahs",
+      "chimpanzee",
+      "other protected wildlife"
+    ],
+    "network_or_case_name": "Vision Quest Ranch / Antle case",
+    "source_ids": [
+      "SRC-000052"
+    ]
+  },
+  {
+    "case_id": "CASE-000089",
+    "entity_ids": [
+      "IWT-P-000077"
+    ],
+    "date": "2022-06-30",
+    "year": "2022",
+    "jurisdiction": "United States",
+    "status": "Charged / Indicted",
+    "status_detail": "Indicted in the Antle case on money-laundering-related allegations.",
+    "outcome": "Status in this row reflects the indictment source.",
+    "description": "Named as a co-defendant in the wider exotic-animal trafficking and laundering investigation.",
+    "species_or_commodities": [
+      "Wildlife-trafficking proceeds",
+      "related conduct"
+    ],
+    "network_or_case_name": "Myrtle Beach Safari / Antle case",
+    "source_ids": [
+      "SRC-000052"
+    ]
+  },
+  {
+    "case_id": "CASE-000090",
+    "entity_ids": [
+      "IWT-B-000010"
+    ],
+    "date": "2025-07-08",
+    "year": "2025",
+    "jurisdiction": "South Carolina, United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Facility named throughout the convicted owner's wildlife-trafficking case.",
+    "outcome": "No separate conviction of the facility stated in the cited sentencing release.",
+    "description": "Business/facility infrastructure associated with Antle's convicted wildlife-trafficking conduct.",
+    "species_or_commodities": [
+      "Big cats",
+      "primates",
+      "other protected wildlife"
+    ],
+    "network_or_case_name": "Antle case",
+    "source_ids": [
+      "SRC-000051"
+    ]
+  },
+  {
+    "case_id": "CASE-000091",
+    "entity_ids": [
+      "IWT-O-000001"
+    ],
+    "date": "2023-11-06",
+    "year": "2023",
+    "jurisdiction": "United States",
+    "status": "Connected Entity",
+    "status_detail": "DOJ stated that payments for endangered species were at times requested as 'donations' to the nonprofit.",
+    "outcome": "No separate criminal conviction of the nonprofit stated in the cited source.",
+    "description": "Named as a payment destination used in aspects of Antle's wildlife-trafficking scheme.",
+    "species_or_commodities": [
+      "Protected wildlife transactions"
+    ],
+    "network_or_case_name": "Antle case",
+    "source_ids": [
+      "SRC-000053"
+    ]
+  },
+  {
+    "case_id": "CASE-000092",
+    "entity_ids": [
+      "IWT-B-000011"
+    ],
+    "date": "2025-07-08",
+    "year": "2025",
+    "jurisdiction": "Texas, United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Named as the business associated with convicted co-defendant Jason Clay.",
+    "outcome": "No separate corporate conviction stated in the cited source.",
+    "description": "Facility connected to Clay's wildlife transactions described by DOJ.",
+    "species_or_commodities": [
+      "Chimpanzee",
+      "gibbon",
+      "exotic wildlife"
+    ],
+    "network_or_case_name": "Antle case",
+    "source_ids": [
+      "SRC-000051"
+    ]
+  },
+  {
+    "case_id": "CASE-000093",
+    "entity_ids": [
+      "IWT-B-000012"
+    ],
+    "date": "2022-06-30",
+    "year": "2022",
+    "jurisdiction": "California, United States",
+    "status": "Charged / Indicted",
+    "status_detail": "Named as the facility associated with an indicted defendant in the Antle wildlife-trafficking case.",
+    "outcome": "No separate corporate conviction stated in the cited source.",
+    "description": "Facility connected to alleged wildlife transactions described in the indictment.",
+    "species_or_commodities": [
+      "Protected wildlife"
+    ],
+    "network_or_case_name": "Antle case",
+    "source_ids": [
+      "SRC-000052"
+    ]
+  },
+  {
+    "case_id": "CASE-000094",
+    "entity_ids": [
+      "IWT-P-000078"
+    ],
+    "date": "2020-01-08",
+    "year": "2020",
+    "jurisdiction": "United States / Philippines",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty to trafficking CITES-protected water monitor lizards from the Philippines.",
+    "outcome": "Guilty plea recorded; later sentencing should be checked if needed.",
+    "description": "Illegally imported more than 20 live lizards concealed in socks inside electronic equipment and falsely labeled shipments.",
+    "species_or_commodities": [
+      "Water monitor lizards"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000054"
+    ]
+  },
+  {
+    "case_id": "CASE-000095",
+    "entity_ids": [
+      "IWT-P-000079"
+    ],
+    "date": "2025-04-10",
+    "year": "2025",
+    "jurisdiction": "United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty to Lacey Act and Marine Mammal Protection Act offenses.",
+    "outcome": "Guilty plea reported; sentencing to follow.",
+    "description": "Imported and sold protected sperm-whale parts.",
+    "species_or_commodities": [
+      "Sperm whale teeth",
+      "bones"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000055"
+    ]
+  },
+  {
+    "case_id": "CASE-000096",
+    "entity_ids": [
+      "IWT-P-000080"
+    ],
+    "date": "2025-10-23",
+    "year": "2025",
+    "jurisdiction": "United States / China / Hong Kong",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty to false labeling associated with trafficking protected turtles.",
+    "outcome": "$18,900 fine and probation reported.",
+    "description": "Shipped nearly 400 protected turtles during 2019-2020 to China and Hong Kong.",
+    "species_or_commodities": [
+      "Protected turtles"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000056"
+    ]
+  },
+  {
+    "case_id": "CASE-000097",
+    "entity_ids": [
+      "IWT-P-000081"
+    ],
+    "date": "2025-10-17",
+    "year": "2025",
+    "jurisdiction": "United States / Mexico",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of wildlife smuggling from Mexico into the United States.",
+    "outcome": "Six months' imprisonment reported.",
+    "description": "Over several years purchased wildlife and arranged capture, border crossing and onward sales.",
+    "species_or_commodities": [
+      "Wildlife",
+      "exotic animals"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000056"
+    ]
+  },
+  {
+    "case_id": "CASE-000098",
+    "entity_ids": [
+      "IWT-P-000082"
+    ],
+    "date": "2025-02-10",
+    "year": "2025",
+    "jurisdiction": "United States / Mexico",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted by a jury of conspiracy and multiple wildlife-smuggling violations.",
+    "outcome": "Sentence reflected in later court records; conviction established in cited source.",
+    "description": "Bought and sold endangered reptiles from Mexico using social media and money-transfer services.",
+    "species_or_commodities": [
+      "Endangered reptiles"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000057"
+    ]
+  },
+  {
+    "case_id": "CASE-000099",
+    "entity_ids": [
+      "IWT-P-000083"
+    ],
+    "date": "2025-02-10",
+    "year": "2025",
+    "jurisdiction": "United States / Mexico",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty and was sentenced for smuggling reptiles from Mexico.",
+    "outcome": "Fine, probation and restitution reported.",
+    "description": "Participated in illegal importation of reptiles into the United States.",
+    "species_or_commodities": [
+      "Reptiles"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000057"
+    ]
+  },
+  {
+    "case_id": "CASE-000100",
+    "entity_ids": [
+      "IWT-P-000084"
+    ],
+    "date": "2025-09-02",
+    "year": "2025",
+    "jurisdiction": "United States / Mexico",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty to smuggling protected parrots from Mexico.",
+    "outcome": "Guilty plea reported; sentencing to follow.",
+    "description": "Smuggled 12 protected parakeets from Mexico into the United States.",
+    "species_or_commodities": [
+      "Orange-fronted parakeets"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000058"
+    ]
+  },
+  {
+    "case_id": "CASE-000101",
+    "entity_ids": [
+      "IWT-P-000085"
+    ],
+    "date": "2025-10-07",
+    "year": "2025",
+    "jurisdiction": "United States / Mexico",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty to attempting to import protected primates.",
+    "outcome": "Guilty plea reported.",
+    "description": "Attempted to import two capuchin monkeys into the United States.",
+    "species_or_commodities": [
+      "Capuchin monkeys"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000056"
+    ]
+  },
+  {
+    "case_id": "CASE-000102",
+    "entity_ids": [
+      "IWT-P-000086"
+    ],
+    "date": "2026-03-23",
+    "year": "2026",
+    "jurisdiction": "United States / Mexico",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted after pleading guilty to transporting exotic birds from Mexico.",
+    "outcome": "90 days' imprisonment plus restitution reported.",
+    "description": "Transported 17 exotic birds from Mexico into the United States.",
+    "species_or_commodities": [
+      "Exotic birds"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000059"
+    ]
+  },
+  {
+    "case_id": "CASE-000103",
+    "entity_ids": [
+      "IWT-P-000087"
+    ],
+    "date": "2026-03-23",
+    "year": "2026",
+    "jurisdiction": "United States / Mexico",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of smuggling protected birds.",
+    "outcome": "Ordered to pay $74,330 to the Lacey Act Reward Fund; sentence reported in 2026 bulletin.",
+    "description": "Smuggled 14 toucans concealed in a vehicle dashboard.",
+    "species_or_commodities": [
+      "Keel-billed toucans"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000059"
+    ]
+  },
+  {
+    "case_id": "CASE-000104",
+    "entity_ids": [
+      "IWT-P-000088"
+    ],
+    "date": "2025-11-14",
+    "year": "2025",
+    "jurisdiction": "United States / Mexico",
+    "status": "Charged / Indicted",
+    "status_detail": "Indicted for allegedly smuggling protected parakeets.",
+    "outcome": "Charge-stage case.",
+    "description": "Prosecutors alleged two birds were concealed in clothing while crossing the border.",
+    "species_or_commodities": [
+      "Orange-fronted parakeets"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000060"
+    ]
+  },
+  {
+    "case_id": "CASE-000105",
+    "entity_ids": [
+      "IWT-P-000089"
+    ],
+    "date": "2026-05-15",
+    "year": "2026",
+    "jurisdiction": "United States / Taiwan",
+    "status": "Charged / Indicted",
+    "status_detail": "Arrested and charged with conspiracy and Lacey Act offenses connected to an attempted export of trafficked turtles.",
+    "outcome": "Case pending at cited date.",
+    "description": "Allegedly bought wild-poached turtles, represented them as captive-bred and attempted to ship 292 turtles to Taiwan.",
+    "species_or_commodities": [
+      "Loggerhead musk turtles"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000061"
+    ]
+  },
+  {
+    "case_id": "CASE-000106",
+    "entity_ids": [
+      "IWT-P-000090"
+    ],
+    "date": "2026-05-07",
+    "year": "2026",
+    "jurisdiction": "United States",
+    "status": "Charged / Indicted",
+    "status_detail": "Arrested, detained and charged with conspiracy and Lacey Act offenses.",
+    "outcome": "Case pending at cited date.",
+    "description": "Prosecutors alleged poaching and sale of more than 1,800 turtles, including shipments to a San Francisco exporter.",
+    "species_or_commodities": [
+      "Loggerhead musk turtles",
+      "stripe-neck musk turtles",
+      "striped mud turtles"
+    ],
+    "network_or_case_name": "Donald Do-linked turtle trafficking case",
+    "source_ids": [
+      "SRC-000062"
+    ]
+  },
+  {
+    "case_id": "CASE-000107",
+    "entity_ids": [
+      "IWT-P-000091"
+    ],
+    "date": "2026-07-23",
+    "year": "2026",
+    "jurisdiction": "United States / Hong Kong",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty for his role in trafficking turtles to Asia.",
+    "outcome": "Sentencing pending after guilty plea.",
+    "description": "Participated in illegal export of protected turtles from the United States to Hong Kong.",
+    "species_or_commodities": [
+      "Protected turtles"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000063"
+    ]
+  },
+  {
+    "case_id": "CASE-000108",
+    "entity_ids": [
+      "IWT-P-000092"
+    ],
+    "date": "2026-07-23",
+    "year": "2026",
+    "jurisdiction": "United States / Hong Kong",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty on July 1, 2026, in a related turtle-trafficking case.",
+    "outcome": "Sentencing pending after guilty plea.",
+    "description": "Participated in illegal export of protected turtles from the United States to Hong Kong.",
+    "species_or_commodities": [
+      "Protected turtles"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000063"
+    ]
+  },
+  {
+    "case_id": "CASE-000109",
+    "entity_ids": [
+      "IWT-P-000093"
+    ],
+    "date": "2025-12-24",
+    "year": "2025",
+    "jurisdiction": "United States / Hong Kong",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted of falsely labeling live reptiles as toys before exporting them to Hong Kong.",
+    "outcome": "Two years' imprisonment and $2,339 fine.",
+    "description": "Exported approximately 850 turtles in 222 parcels, with animals concealed in socks; reptiles were destined for Hong Kong.",
+    "species_or_commodities": [
+      "Box turtles",
+      "snakes",
+      "lizards"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000064"
+    ]
+  },
+  {
+    "case_id": "CASE-000110",
+    "entity_ids": [
+      "IWT-P-000094"
+    ],
+    "date": "2025-03-14",
+    "year": "2025",
+    "jurisdiction": "United States / Hong Kong",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Convicted for smuggling protected turtles from the United States to Hong Kong.",
+    "outcome": "30 months' imprisonment.",
+    "description": "Smuggled thousands of turtles worth millions of dollars for the illegal pet trade.",
+    "species_or_commodities": [
+      "Protected turtles"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000065"
+    ]
+  },
+  {
+    "case_id": "CASE-000111",
+    "entity_ids": [
+      "IWT-P-000095"
+    ],
+    "date": "2026-03-26",
+    "year": "2026",
+    "jurisdiction": "United States",
+    "status": "Convicted / Sentenced",
+    "status_detail": "Sentenced for Lacey Act conspiracy and trafficking while on probation for an earlier protected-primate trafficking conviction.",
+    "outcome": "Nine months' federal imprisonment followed by three years' supervised release.",
+    "description": "Repeat trafficking case involving protected primates and false records.",
+    "species_or_commodities": [
+      "Primates",
+      "cotton-top tamarins",
+      "capuchin monkey"
+    ],
+    "network_or_case_name": "The Monkey Whisperer, LLC",
+    "source_ids": [
+      "SRC-000066"
+    ]
+  },
+  {
+    "case_id": "CASE-000112",
+    "entity_ids": [
+      "IWT-P-000096"
+    ],
+    "date": "2024-11-15",
+    "year": "2024",
+    "jurisdiction": "United States",
+    "status": "Charged / Indicted",
+    "status_detail": "Indicted with Jimmy Wayne Hammonds for alleged conspiracy and Lacey Act trafficking.",
+    "outcome": "Case status in this row reflects the 2024 indictment.",
+    "description": "Prosecutors alleged illegal trafficking of monkeys.",
+    "species_or_commodities": [
+      "Monkeys",
+      "primates"
+    ],
+    "network_or_case_name": "The Monkey Whisperer network",
+    "source_ids": [
+      "SRC-000067"
+    ]
+  },
+  {
+    "case_id": "CASE-000113",
+    "entity_ids": [
+      "IWT-B-000013"
+    ],
+    "date": "2022-06-09",
+    "year": "2022",
+    "jurisdiction": "Florida, United States",
+    "status": "Connected Entity",
+    "status_detail": "DOJ identified the company as owned and operated by Jimmy Wayne Hammonds.",
+    "outcome": "No separate corporate conviction stated in the cited source.",
+    "description": "Business was the commercial vehicle for breeding and selling wildlife in Hammonds' protected-primate trafficking case.",
+    "species_or_commodities": [
+      "Primates"
+    ],
+    "network_or_case_name": "Jimmy Wayne Hammonds case",
+    "source_ids": [
+      "SRC-000068"
+    ]
+  },
+  {
+    "case_id": "CASE-000114",
+    "entity_ids": [
+      "IWT-P-000097"
+    ],
+    "date": "2023-11-17",
+    "year": "2023",
+    "jurisdiction": "United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty to two counts of Lacey Act trafficking.",
+    "outcome": "Sentencing was pending in the cited source.",
+    "description": "Trafficked protected Florida turtles.",
+    "species_or_commodities": [
+      "Florida box turtles",
+      "loggerhead musk turtles",
+      "ornate diamondback terrapins"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000069"
+    ]
+  },
+  {
+    "case_id": "CASE-000115",
+    "entity_ids": [
+      "IWT-P-000098"
+    ],
+    "date": "2026-05-22",
+    "year": "2026",
+    "jurisdiction": "Puerto Rico, United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty in a federal case involving capture and sale of migratory birds.",
+    "outcome": "Sentencing scheduled in 2026 according to DOJ bulletin.",
+    "description": "From 2020 through 2024, defendants captured migratory birds and offered them for sale locally and in private internet chat groups.",
+    "species_or_commodities": [
+      "Migratory ducks",
+      "geese",
+      "white-crowned pigeons"
+    ],
+    "network_or_case_name": "Puerto Rico migratory-bird trafficking case",
+    "source_ids": [
+      "SRC-000070"
+    ]
+  },
+  {
+    "case_id": "CASE-000116",
+    "entity_ids": [
+      "IWT-P-000099"
+    ],
+    "date": "2026-05-22",
+    "year": "2026",
+    "jurisdiction": "Puerto Rico, United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty in a federal case involving capture and sale of migratory birds.",
+    "outcome": "Sentencing scheduled in 2026 according to DOJ bulletin.",
+    "description": "From 2020 through 2024, defendants captured migratory birds and offered them for sale locally and in private internet chat groups.",
+    "species_or_commodities": [
+      "Migratory ducks",
+      "geese",
+      "white-crowned pigeons"
+    ],
+    "network_or_case_name": "Puerto Rico migratory-bird trafficking case",
+    "source_ids": [
+      "SRC-000070"
+    ]
+  },
+  {
+    "case_id": "CASE-000117",
+    "entity_ids": [
+      "IWT-P-000100"
+    ],
+    "date": "2026-05-22",
+    "year": "2026",
+    "jurisdiction": "Puerto Rico, United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty in a federal case involving capture and sale of migratory birds.",
+    "outcome": "Sentencing scheduled in 2026 according to DOJ bulletin.",
+    "description": "From 2020 through 2024, defendants captured migratory birds and offered them for sale locally and in private internet chat groups.",
+    "species_or_commodities": [
+      "Migratory ducks",
+      "geese",
+      "white-crowned pigeons"
+    ],
+    "network_or_case_name": "Puerto Rico migratory-bird trafficking case",
+    "source_ids": [
+      "SRC-000070"
+    ]
+  },
+  {
+    "case_id": "CASE-000118",
+    "entity_ids": [
+      "IWT-P-000101"
+    ],
+    "date": "2026-05-22",
+    "year": "2026",
+    "jurisdiction": "Puerto Rico, United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty in a federal case involving capture and sale of migratory birds.",
+    "outcome": "Sentencing scheduled in 2026 according to DOJ bulletin.",
+    "description": "From 2020 through 2024, defendants captured migratory birds and offered them for sale locally and in private internet chat groups.",
+    "species_or_commodities": [
+      "Migratory ducks",
+      "geese",
+      "white-crowned pigeons"
+    ],
+    "network_or_case_name": "Puerto Rico migratory-bird trafficking case",
+    "source_ids": [
+      "SRC-000070"
+    ]
+  },
+  {
+    "case_id": "CASE-000119",
+    "entity_ids": [
+      "IWT-P-000102"
+    ],
+    "date": "2026-05-22",
+    "year": "2026",
+    "jurisdiction": "Puerto Rico, United States",
+    "status": "Pleaded Guilty",
+    "status_detail": "Pleaded guilty in a federal case involving capture and sale of migratory birds.",
+    "outcome": "Sentencing scheduled in 2026 according to DOJ bulletin.",
+    "description": "From 2020 through 2024, defendants captured migratory birds and offered them for sale locally and in private internet chat groups.",
+    "species_or_commodities": [
+      "Migratory ducks",
+      "geese",
+      "white-crowned pigeons"
+    ],
+    "network_or_case_name": "Puerto Rico migratory-bird trafficking case",
+    "source_ids": [
+      "SRC-000070"
+    ]
+  },
+  {
+    "case_id": "CASE-000120",
+    "entity_ids": [
+      "IWT-P-000103"
+    ],
+    "date": "2021-10-31",
+    "year": "2021",
+    "jurisdiction": "Bolivia / China",
+    "status": "Arrested / Detained",
+    "status_detail": "Named by Earth League International as a top jaguar-trafficking suspect arrested in Bolivia.",
+    "outcome": "Arrest reported; subsequent judicial outcome not stated in cited source.",
+    "description": "Operation Jaguar investigators linked suspects to trafficking jaguar parts from Bolivia toward China.",
+    "species_or_commodities": [
+      "Jaguar parts"
+    ],
+    "network_or_case_name": "Operation Jaguar",
+    "source_ids": [
+      "SRC-000071"
+    ]
+  },
+  {
+    "case_id": "CASE-000121",
+    "entity_ids": [
+      "IWT-P-000104"
+    ],
+    "date": "2021-10-31",
+    "year": "2021",
+    "jurisdiction": "Bolivia / China",
+    "status": "Arrested / Detained",
+    "status_detail": "Named by Earth League International as a top jaguar-trafficking suspect arrested in Bolivia.",
+    "outcome": "Arrest reported; subsequent judicial outcome not stated in cited source.",
+    "description": "Operation Jaguar investigators linked suspects to trafficking jaguar parts from Bolivia toward China.",
+    "species_or_commodities": [
+      "Jaguar parts"
+    ],
+    "network_or_case_name": "Operation Jaguar",
+    "source_ids": [
+      "SRC-000071"
+    ]
+  },
+  {
+    "case_id": "CASE-000122",
+    "entity_ids": [
+      "IWT-P-000105"
+    ],
+    "date": "2021-10-31",
+    "year": "2021",
+    "jurisdiction": "Bolivia / China",
+    "status": "Arrested / Detained",
+    "status_detail": "Named by Earth League International as a top jaguar-trafficking suspect arrested in Bolivia.",
+    "outcome": "Arrest reported; subsequent judicial outcome not stated in cited source.",
+    "description": "Operation Jaguar investigators linked suspects to trafficking jaguar parts from Bolivia toward China.",
+    "species_or_commodities": [
+      "Jaguar parts"
+    ],
+    "network_or_case_name": "Operation Jaguar",
+    "source_ids": [
+      "SRC-000071"
+    ]
+  },
+  {
+    "case_id": "CASE-000123",
+    "entity_ids": [
+      "IWT-P-000106"
+    ],
+    "date": "2021-10-31",
+    "year": "2021",
+    "jurisdiction": "Bolivia / China",
+    "status": "Arrested / Detained",
+    "status_detail": "Named by Earth League International as a top jaguar-trafficking suspect arrested in Bolivia.",
+    "outcome": "Arrest reported; subsequent judicial outcome not stated in cited source.",
+    "description": "Operation Jaguar investigators linked suspects to trafficking jaguar parts from Bolivia toward China.",
+    "species_or_commodities": [
+      "Jaguar parts"
+    ],
+    "network_or_case_name": "Operation Jaguar",
+    "source_ids": [
+      "SRC-000071"
+    ]
+  },
+  {
+    "case_id": "CASE-000124",
+    "entity_ids": [
+      "IWT-P-000107"
+    ],
+    "date": "2021-10-31",
+    "year": "2021",
+    "jurisdiction": "Bolivia / China",
+    "status": "Arrested / Detained",
+    "status_detail": "Named by Earth League International as a top jaguar-trafficking suspect arrested in Bolivia.",
+    "outcome": "Arrest reported; subsequent judicial outcome not stated in cited source.",
+    "description": "Operation Jaguar investigators linked suspects to trafficking jaguar parts from Bolivia toward China.",
+    "species_or_commodities": [
+      "Jaguar parts"
+    ],
+    "network_or_case_name": "Operation Jaguar",
+    "source_ids": [
+      "SRC-000071"
+    ]
+  },
+  {
+    "case_id": "CASE-000125",
+    "entity_ids": [
+      "IWT-P-000108"
+    ],
+    "date": "2026-05-07",
+    "year": "2026",
+    "jurisdiction": "Brazil / United States",
+    "status": "Under Investigation / Alleged",
+    "status_detail": "Brazilian Federal Police seized electronic devices from Silva in a wildlife-trafficking probe reported by Mongabay.",
+    "outcome": "Investigation ongoing in cited reporting; no new criminal finding stated.",
+    "description": "Reporting linked the investigative action to a broader probe into international wildlife trafficking.",
+    "species_or_commodities": [
+      "Birds",
+      "golden lion tamarin investigation context"
+    ],
+    "network_or_case_name": "",
+    "source_ids": [
+      "SRC-000072"
+    ]
+  }
+]
